@@ -1,0 +1,62 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+#  schedule:
+#    - cron: '9 * * * *'
+  workflow_dispatch:
+  workflow_call:
+
+env:
+    MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+#env:
+#  CACHE_NUMBER: 2 # increase this by one to force new cache
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate HTML
+
+    steps:
+    - uses: actions/checkout@v3
+
+#    - name: Cache fetched data
+#      uses: actions/cache@v3
+#      with:
+#        path: cache
+#        key: osdc-${{ env.CACHE_NUMBER }}
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v2
+
+    - name: Generate HTML Pages
+      uses: osdc-code-maven/osdc-site-generator@v1
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+      if: github.ref == 'refs/heads/main'
+
+  # Deployment job
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: generate
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+

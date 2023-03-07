@@ -2,7 +2,8 @@
 
 phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
 
-* Start day: 2023.03.08
+* Start day: 2023.03.09
+* Meetings: Every Thursday 12:30-14
 
 ## TOC
 

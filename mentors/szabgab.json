@@ -1,0 +1,23 @@
+{
+    "name": "Gabor Szabo",
+    "linkedin": "szabgab",
+    "github": "szabgab",
+    "gitlab": "szabgab",
+    "devto": "szabgab",
+    "github_page": "true",
+    "posts": [
+        {
+            "url": "https://dev.to/szabgab/open-source-development-courses-5d4b"
+        },
+        {
+            "title": "Video of first session fixed really",
+            "url": "https://he.code-maven.com/osdc-public-hebrew-2023-01-part-1",
+            "published_at": "2023-01-08T20:29:48Z"
+        }
+    ],
+    "projects": [
+        "https://github.com/pallets/flask",
+        "https://github.com/metacpan"
+    ]
+}
+
