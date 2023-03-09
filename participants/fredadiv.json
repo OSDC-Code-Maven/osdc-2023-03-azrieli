@@ -1,0 +1,17 @@
+{
+    "name": "Freddy Adiv",
+    "linkedin": "freddyadiv",
+    "github": "FredAdiv",
+    "devto": "FredAdiv",
+    "github_page": "true",
+    "posts": [
+        {
+            "title": "just a test",
+            "url": "https://ynet.co.il",
+            "published_at": "2023-01-08T20:29:48Z"
+        }
+    ],
+    "projects": [
+        "https://github.com/FredAdiv/Coursera_Capstone",
+    ]
+}
