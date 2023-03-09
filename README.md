@@ -83,9 +83,13 @@
 
 * Video 1 and 2 timestamping: Yael and Eliahu Levy
 
+* Create GitHub repository if you don't have one yet.
+* Add an image or an avatar to your GitHub account.
 * Add your JSON to our repository to the `participants/' folder.
-* List interesting projects.
+* List interesting projects in the JSON file.
 * Follow this git repository. Follow a number of other GitHub repositories that you find interesting or that you use.
+* Write a blog post about this on [DEV.to](https://dev.to/)
+* Include the link of the article in the JSON file.
 
 * Dead-line: 2023.03.14 midnight.
 
