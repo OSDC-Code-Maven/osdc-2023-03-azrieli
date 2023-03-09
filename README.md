@@ -11,7 +11,7 @@
 
 ## Videos
 
-* Playlist
+* [Playlist](https://www.youtube.com/playlist?list=PLm2NBp4tb5F0L6SmPx17K5bQM3Ha62DHp)
 
 ## Session 1: Welcome, Version Control, Journal, Slack
 
