@@ -1,9 +1,9 @@
 # OSDC 2023.03 Azrieli
 
-phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
+* [site](https://osdc.code-maven.com/osdc-2023-03-azrieli/)
 
 * Start day: 2023.03.09
-* Meetings: Every Thursday 12:30-14
+* Meetings: Every Thursday 12:15-14:45
 
 ## TOC
 
@@ -48,8 +48,8 @@ phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
 * Assignments:
     * Will be in some public GitHub or GitLab repositories.
     * At the end of each assignment you'll write a report - a blog post / journal entry.
+    * You will add the link of your blog post to your personal JSON file and send a Pull-Request with the change. (We'll learn these soon)
     * Video timstamping: Every week two people have to "timestamp" the videos. You can say if you'd like to do one of them, and if noone wants to do a parricular one I'll pick from the names so everyone will do approcimately the same number of videos.
-    * You will add it to your personal JSON file and send a Pull-Request with the change. (We'll learn these soon)
     * First few assignments will be to my projects and your own projects. This allows for quick feedback and integration.
     * Then to each others projects.
     * Then we'll find you open source projects maintained by other people.
@@ -61,13 +61,13 @@ phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
 * How and why to blog/journal?
     * [DEV.to](https://dev.to/)
     * Use Markdown.
-    * Use visual editor.
+    * Use visual editor. (customization / Writing)
     * Create series.
     * Add #osdc tag
     * The importance of linking and link anchors.
 
 * Why use version control?
-* What is JSON.
+* What is [JSON](https://www.json.org/).
 * Pull request to add JSON, show drawing.
 * Use the cm-demo account to add enty to participant.
 
@@ -80,23 +80,20 @@ TODO: can I pre approve users to run the GA on my repo? Do I want it?
 How to find a git repo of a project?
 Show how to find the git repository. (link from docs or metacpan? Google search?)
 
-* Video 1:
+* [Video 1](https://youtu.be/uiJjhFW6TH4):
     * 00:00 Start
-* Video 2:
+* [Video 2](https://youtu.be/-euAGPpymjQ):
     * 00:00 Start
 
 
 ## Assignment 1
 
 * Add your JSON to our repository to the `participants/' folder.
-, list interesting projects.
+* List interesting projects.
 
 * Video 1:
 * Video 2:
 
 
-
-Show how to follow projects on GitHub to get notifocations.
-Assignment: follow our project, follow my projects, follow each other's projects.
 
 
