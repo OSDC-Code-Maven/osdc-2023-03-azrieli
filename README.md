@@ -41,9 +41,9 @@ phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
         * Development of a personal open source project
 
 * About myself:
-        * Self employed
-        * Training
-        * Introducing testing, CI etc. to teams in corporations.
+    * Self employed
+    * Training
+    * Introducing testing, CI etc. to teams in corporations.
 
 * Assignments:
     * Will be in some public GitHub or GitLab repositories.
