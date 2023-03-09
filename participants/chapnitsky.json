@@ -1,0 +1,18 @@
+{
+    name: Doron Chapnitsky,
+    linkedin: doronchapnitsky,
+    github: chapnitsky,
+    gitlab: chapnitsky,
+    devto: chapnitsky,
+    github_page: true,
+    posts: [
+        {
+            url: https://dev.to/chapnitsky
+        },
+        {
+            title: test,
+            url: https://he.code-maven.com/osdc-public-hebrew-2023-01-part-1,
+            published_at: 2023-01-08T20:29:48Z
+        }
+    ]
+}
