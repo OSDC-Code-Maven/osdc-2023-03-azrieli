@@ -10,8 +10,8 @@
         },
     ],
     "projects": [
-        "https://github.com/yaellevy"
+        "https://github.com/yaellevy",
         "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
-        "https://github.com/FredAdiv/Coursera_Capstone",
+        "https://github.com/FredAdiv/Coursera_Capstone"
     ]
 }
