@@ -120,4 +120,12 @@
 * Dead-line: 2023.03.14 midnight.
 
 
+## Session 2
+
+* Fix issue in PR instead of opening new one
+* Show how to fix issues in PR
+* Ask to get the Video timestamping earlier.
+
+* Video 1:
+* Video 2:
 
