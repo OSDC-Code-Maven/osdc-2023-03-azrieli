@@ -75,7 +75,7 @@
 * About GitHub Actions: they are programs triggered by some action. In this case by a pull request.
 
 * [Video 1](https://youtu.be/uiJjhFW6TH4):
-    * 00:00 Start-About the course
+    * 00:00 About the course
     * 04:28 Overview of the course
     * 18:46 About Gabor Szabo
     * 20:15 Assighnments
@@ -90,7 +90,7 @@
     * 48:28 Text in markdown
 
 * [Video 2](https://youtu.be/-euAGPpymjQ):
-    * 00:00 Start-Forem issues to solve bug
+    * 00:00 Forem issues to solve bug
     * 06:50 Inbound links
     * 08:44 Version control
     * 11:22 Json
