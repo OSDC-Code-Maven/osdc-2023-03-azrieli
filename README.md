@@ -75,9 +75,35 @@
 * About GitHub Actions: they are programs triggered by some action. In this case by a pull request.
 
 * [Video 1](https://youtu.be/uiJjhFW6TH4):
-    * 00:00 Start
+    * 00:00 Start-About the course
+    * 04:28 Overview of the course
+    * 18:46 About Gabor Szabo
+    * 20:15 Assighnments
+    * 23:05 Video timestamping
+    * 31:20 Grades
+    * 35:20 Blog posting
+    * 35:49 Dev.to
+    * 36:15 Post editor
+    * 39:18 Published
+    * 39:39 Description
+    * 40:10 Tags
+    * 48:28 Text in markdown
+
 * [Video 2](https://youtu.be/-euAGPpymjQ):
-    * 00:00 Start
+    * 00:00 Start-Forem issues to solve bug
+    * 06:50 Inbound links
+    * 08:44 Version control
+    * 11:22 Json
+    * 14:36 Add json participant by pull request
+    * 16:30 Fork
+    * 25:35 Create pull request
+    * 27:40 Workflow
+    * 28:40 Approve pull request
+    * 30:00 Error handling
+    * 36:30 Sqush and merge pull request
+    * 37:43 Actions
+    * 39:02 Exercise definition-send pull request
+    * 42:50 Add comment
 
 ## Assignment 1
 
