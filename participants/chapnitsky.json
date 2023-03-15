@@ -11,12 +11,10 @@
         }
      ],
     "projects":[
-        {
-            "https://github.com/chapnitsky/bsc",
-            "https://github.com/chapnitsky/Client-Server",
-            "https://github.com/chapnitsky/Ronaldo-VS-Messi",
-            "https://github.com/chapnitsky/RESTFUL-api-website",
-            "https://github.com/chapnitsky/Snake"
-        }
+        "https://github.com/chapnitsky/bsc",
+        "https://github.com/chapnitsky/Client-Server",
+        "https://github.com/chapnitsky/Ronaldo-VS-Messi",
+        "https://github.com/chapnitsky/RESTFUL-api-website",
+        "https://github.com/chapnitsky/Snake"
     ]
 }
