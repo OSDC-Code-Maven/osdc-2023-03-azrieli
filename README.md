@@ -74,7 +74,7 @@
 
 * About GitHub Actions: they are programs triggered by some action. In this case by a pull request.
 
-* [Video 1](https://youtu.be/uiJjhFW6TH4):
+* [Video 1](https://youtu.be/uiJjhFW6TH4): (Yael Levy)
     * 00:00 About the course
     * 04:28 Overview of the course
     * 18:46 About Gabor Szabo
@@ -89,7 +89,7 @@
     * 40:10 Tags
     * 48:28 Text in markdown
 
-* [Video 2](https://youtu.be/-euAGPpymjQ):
+* [Video 2](https://youtu.be/-euAGPpymjQ): (Eliyahou Levy)
     * 00:00 Forem issues to solve bug
     * 06:50 Inbound links
     * 08:44 Version control
@@ -106,8 +106,6 @@
     * 42:50 Add comment
 
 ## Assignment 1
-
-* Video 1 and 2 timestamping: Yael and Eliahu Levy
 
 * Create GitHub repository if you don't have one yet.
 * Add an image or an avatar to your GitHub account.
