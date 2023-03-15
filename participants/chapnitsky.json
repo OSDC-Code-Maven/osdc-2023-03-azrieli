@@ -1,0 +1,20 @@
+{
+    "name": "Doron Chapnitsky",
+    "linkedin": "doronchapnitsky",
+    "github": "chapnitsky",
+    "gitlab": "chapnitsky",
+    "devto": "chapnitsky",
+    "github_page": "true",
+    "posts": [
+        {
+            "url": "https://dev.to/chapnitsky/assignment-1-getting-started-46b1"
+        }
+     ],
+    "projects":[
+        "https://github.com/chapnitsky/bsc",
+        "https://github.com/chapnitsky/Client-Server",
+        "https://github.com/chapnitsky/Ronaldo-VS-Messi",
+        "https://github.com/chapnitsky/RESTFUL-api-website",
+        "https://github.com/chapnitsky/Snake"
+    ]
+}
