@@ -120,7 +120,7 @@
 * Dead-line: 2023.03.14 midnight.
 
 
-## Session 2
+## Session 2 2023.03.16 12:15-14:30
 
 * Fix issue in PR instead of opening new one
 * Show how to fix issues in PR
@@ -128,4 +128,14 @@
 
 * Video 1:
 * Video 2:
+
+## Session 3 2023.03.23 13:30-14:30
+
+* Video 1:
+
+
+## Session 4 2023.03.30 13:30-14:30
+
+* Video 1:
+
 
