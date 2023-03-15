@@ -129,17 +129,17 @@
 
 ## Session 3 2023.03.23 13:30-14:30
 
-* Video 1:
+* Video 1: Ran Moshe
 
 
 ## Session 4 2023.03.30 13:30-14:30
 
-* Video 1:
+* Video 1: Ran Moshe
 
 ## Session 5 2023.04.13 12:15-14:30
 
-* Video 1:
-* Video 2:
+* Video 1: Ran Moshe
+* Video 2: Ran Moshe
 
 ## Session 6 2023.04.20 12:15-14:30
 
