@@ -136,4 +136,48 @@
 
 * Video 1:
 
+## Session 5 2023.04.13 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 6 2023.04.20 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 7 2023.04.27 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 8 2023.05.04 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 9 2023.05.11 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 10 2023.06.01 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 11 2023.06.08 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 12 2023.06.15 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 13 2023.06.22 12:15-14:30
+
+* Video 1:
+* Video 2:
 
