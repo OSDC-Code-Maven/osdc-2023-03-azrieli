@@ -137,24 +137,32 @@
     * [3rd party package registries](https://code-maven.com/package-registry)
     * Google search?
 
-What are yaml files
-* Create Github pages.
-    * Markdown.
-    * Introduce git client.
-        * Setup local git configure, clone, add, commit, etc.
-
+* What are yaml files See the [repo](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) and the [site](https://osdc.code-maven.com/)
 
 * Video 1:
 * Video 2:
 
 ## Assignment 2
 
-* Follow our project, follow my projects, follow each other's projects.
+* Add (more) projects you are interested in.
+* Follow our project
+* Follow my projects
+* Follow each other's projects.
 
+* Convert more organizations to yaml files.
+* Collect more organizations
 
 ## Session 3 2023.03.23 13:30-14:30
 
+* Create Github pages.
+    * Markdown.
+    * Introduce git client.
+        * Setup local git configure, clone, add, commit, etc.
+
+
 * Video 1: Ran Moshe
+
+* Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Explain why linking and the anchors are important.
 
 
 ## Session 4 2023.03.30 13:30-14:30
