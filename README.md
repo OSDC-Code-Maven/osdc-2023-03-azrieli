@@ -120,12 +120,37 @@
 
 ## Session 2 2023.03.16 12:15-14:30
 
-* Fix issue in PR instead of opening new one
-* Show how to fix issues in PR
+* Go over all the PRs people opened and the Issue I opened
+    * Fix issue in PR instead of opening new one (show it)
+    * Mentioning commits in issues and issues in commit
+* Blogging: linking, more details!
+
 * Ask to get the Video timestamping earlier.
+
+* Show how to follow projects on GitHub to get notifications.
+
+* The structure of a Github URL : https://github.com/(username|organization)
+
+* How to find a git repo of a project?
+    * [Perl MetaCPAN](https://metacpan.org/)
+    * [Python PyPI](https://pypi.org/)
+    * [3rd party package registries](https://code-maven.com/package-registry)
+    * Google search?
+
+What are yaml files
+* Create Github pages.
+    * Markdown.
+    * Introduce git client.
+        * Setup local git configure, clone, add, commit, etc.
+
 
 * Video 1:
 * Video 2:
+
+## Assignment 2
+
+* Follow our project, follow my projects, follow each other's projects.
+
 
 ## Session 3 2023.03.23 13:30-14:30
 
