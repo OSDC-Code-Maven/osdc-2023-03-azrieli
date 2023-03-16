@@ -9,6 +9,8 @@
 
 * [Session 1: Welcome, Version Control, Journal, Slack](#session-1-welcome-version-control-journal-slack)
 * [Assignment 1](#assignment-1)
+* [Assignment 2](#assignment-2)
+* [Next](#next)
 
 ## Videos
 
@@ -118,11 +120,13 @@
 * Dead-line: 2023.03.14 midnight.
 
 
-## Session 2 2023.03.16 12:15-14:30
+## Session 2: Finding projects, git workflows, ci, yaml
 
-* Go over all the PRs people opened and the Issue I opened
+2023.03.16 12:15-14:30
+
+* Go over all the PRs people opened and the Issue I opened on our GitHub repository.
     * Fix issue in PR instead of opening new one (show it)
-    * Mentioning commits in issues and issues in commit
+    * Mentioning commits in issues and issues in commits.
 * Blogging: linking, more details!
 
 * Ask to get the Video timestamping earlier.
@@ -137,10 +141,10 @@
     * [3rd party package registries](https://code-maven.com/package-registry)
     * Google search?
 
-* What are yaml files See the [repo](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) and the [site](https://osdc.code-maven.com/)
+* What are [yaml](https://yaml.org/) files See the [repo](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) and the [site](https://osdc.code-maven.com/)
 
-* Video 1:
-* Video 2:
+* [Video 1](https://youtu.be/Ydbkk1ZKDLk):
+* [Video 2](https://youtu.be/WuKd66rLTKw):
 
 ## Assignment 2
 
@@ -149,18 +153,29 @@
 * Follow my projects
 * Follow each other's projects.
 
-* Convert more organizations to yaml files.
-* Collect more organizations
+* Convert 5 more organizations to yaml files.
+* Find more organizations.
+* Write a blog post (tag with #osdc, notes, links, etc.)
+* Send a PR to add your blog post to your JSON file.
+
+* Dead-line: 2023.03.21 midnight.
+
+## Next:
 
 ## Session 3 2023.03.23 13:30-14:30
 
+
 * Create Github pages.
     * Markdown.
-    * Introduce git client.
-        * Setup local git configure, clone, add, commit, etc.
+
+* Introduce git client.
+    * Setup local git configure, clone, add, commit, etc.
 
 
 * Video 1: Ran Moshe
+
+
+## Assignmenr 3
 
 * Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Explain why linking and the anchors are important.
 
