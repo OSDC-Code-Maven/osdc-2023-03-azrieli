@@ -154,7 +154,7 @@
 * Follow each other's projects.
 
 * Convert 5 more organizations to yaml files.
-* Find more organizations.
+* Find more organizations. (more github organizations belonging to governments, universities, or corporations that are not even in the md files yet. I realize that converting the md files to yaml files should be probably the priority for this project so it might be better to do a few more of that.)
 * Write a blog post (tag with #osdc, notes, links, etc.)
 * Send a PR to add your blog post to your JSON file.
 
@@ -175,7 +175,7 @@
 * Video 1: Ran Moshe
 
 
-## Assignmenr 3
+## Assignment 3
 
 * Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Explain why linking and the anchors are important.
 
