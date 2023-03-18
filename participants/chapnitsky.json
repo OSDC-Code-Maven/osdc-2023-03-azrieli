@@ -8,6 +8,9 @@
     "posts": [
         {
             "url": "https://dev.to/chapnitsky/assignment-1-getting-started-46b1"
+        },
+        {
+            "url": "https://dev.to/chapnitsky/yaml-and-git-554k"
         }
      ],
     "projects":[
@@ -15,6 +18,8 @@
         "https://github.com/chapnitsky/Client-Server",
         "https://github.com/chapnitsky/Ronaldo-VS-Messi",
         "https://github.com/chapnitsky/RESTFUL-api-website",
-        "https://github.com/chapnitsky/Snake"
+        "https://github.com/chapnitsky/Snake",
+        "https://github.com/FredAdiv/Coursera_Capstone",
+        "https://github.com/zoharasulin/City-Forest"
     ]
 }
