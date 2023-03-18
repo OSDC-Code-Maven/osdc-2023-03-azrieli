@@ -1,17 +1,20 @@
 # OSDC 2023.03 Azrieli
 
-phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
+* [site](https://osdc.code-maven.com/osdc-2023-03-azrieli/)
 
 * Start day: 2023.03.09
-* Meetings: Every Thursday 12:30-14
+* Meetings: Every Thursday 12:15-14:45
 
 ## TOC
 
+* [Session 1: Welcome, Version Control, Journal, Slack](#session-1-welcome-version-control-journal-slack)
 * [Assignment 1](#assignment-1)
+* [Assignment 2](#assignment-2)
+* [Next](#next)
 
 ## Videos
 
-* Playlist
+* [Playlist](https://www.youtube.com/playlist?list=PLm2NBp4tb5F0L6SmPx17K5bQM3Ha62DHp)
 
 ## Session 1: Welcome, Version Control, Journal, Slack
 
@@ -48,11 +51,11 @@ phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
 * Assignments:
     * Will be in some public GitHub or GitLab repositories.
     * At the end of each assignment you'll write a report - a blog post / journal entry.
-    * Video timstamping: Every week two people have to "timestamp" the videos. You can say if you'd like to do one of them, and if noone wants to do a parricular one I'll pick from the names so everyone will do approcimately the same number of videos.
-    * You will add it to your personal JSON file and send a Pull-Request with the change. (We'll learn these soon)
-    * First few assignments will be to my projects and your own projects. This allows for quick feedback and integration.
-    * Then to each others projects.
-    * Then we'll find you open source projects maintained by other people.
+    * You will add the link of your blog post to your personal JSON file and send a Pull-Request with the change. (We'll learn these soon)
+    * Video timstamping: Every week two people have to "timestamp" the videos. You can pick a video you'd like to do. If noone volunteers to do one of the videos I'll pick from the names so by the end of the semester everyone will do approximately the same number of videos.
+    * First few assignments will be to my projects. This allows for quick feedback and integration.
+    * Then to each others projects. This still allows for quick feedback.
+    * Then we'll find you open source projects maintained by other people. For these I might be able to give feedback, but I cannot integrate them.
 * Grades:
     * Grades are based on the work done during the course.
     * There is no end-project or exam at the end.
@@ -60,43 +63,169 @@ phttps://osdc.code-maven.com/osdc-2023-03-azrieli/
 
 * How and why to blog/journal?
     * [DEV.to](https://dev.to/)
-    * Use Markdown.
-    * Use visual editor.
+    * Use [Markdown](https://en.wikipedia.org/wiki/Markdown).
+    * Use visual editor of DEV (Switch at Customization / Writing)
     * Create series.
-    * Add #osdc tag
+    * Add `#osdc` tag
     * The importance of linking and link anchors.
 
 * Why use version control?
-* What is JSON.
+* What is [JSON](https://www.json.org/).
 * Pull request to add JSON, show drawing.
 * Use the cm-demo account to add enty to participant.
 
-* Aboout GitHub Actions: they are programs triggered by some action. In this case by a pull request.
+* About GitHub Actions: they are programs triggered by some action. In this case by a pull request.
 
-TODO: can I pre approve users to run the GA on my repo? Do I want it?
+* [Video 1](https://youtu.be/uiJjhFW6TH4): (Yael Levy)
+    * 00:00 About the course
+    * 04:28 Overview of the course
+    * 18:46 About Gabor Szabo
+    * 20:15 Assighnments
+    * 23:05 Video timestamping
+    * 31:20 Grades
+    * 35:20 Blog posting
+    * 35:49 Dev.to
+    * 36:15 Post editor
+    * 39:18 Published
+    * 39:39 Description
+    * 40:10 Tags
+    * 48:28 Text in markdown
 
-* Github URL : https://github.com/(username|organization)
-
-How to find a git repo of a project?
-Show how to find the git repository. (link from docs or metacpan? Google search?)
-
-* Video 1:
-    * 00:00 Start
-* Video 2:
-    * 00:00 Start
-
+* [Video 2](https://youtu.be/-euAGPpymjQ): (Eliyahou Levy)
+    * 00:00 Forem issues to solve bug
+    * 06:50 Inbound links
+    * 08:44 Version control
+    * 11:22 Json
+    * 14:36 Add json participant by pull request
+    * 16:30 Fork
+    * 25:35 Create pull request
+    * 27:40 Workflow
+    * 28:40 Approve pull request
+    * 30:00 Error handling
+    * 36:30 Sqush and merge pull request
+    * 37:43 Actions
+    * 39:02 Exercise definition-send pull request
+    * 42:50 Add comment
 
 ## Assignment 1
 
+* Create GitHub repository if you don't have one yet.
+* Add an image or an avatar to your GitHub account.
 * Add your JSON to our repository to the `participants/' folder.
-, list interesting projects.
+* List interesting projects in the JSON file.
+* Follow this git repository. Follow a number of other GitHub repositories that you find interesting or that you use.
+* Write a blog post about this on [DEV.to](https://dev.to/)
+* Include the link of the article in the JSON file.
+
+* Dead-line: 2023.03.14 midnight.
+
+
+## Session 2: Finding projects, git workflows, ci, yaml
+
+2023.03.16 12:15-14:30
+
+* Go over all the PRs people opened and the Issue I opened on our GitHub repository.
+    * Fix issue in PR instead of opening new one (show it)
+    * Mentioning commits in issues and issues in commits.
+* Blogging: linking, more details!
+
+* Ask to get the Video timestamping earlier.
+
+* Show how to follow projects on GitHub to get notifications.
+
+* The structure of a Github URL : https://github.com/(username|organization)
+
+* How to find a git repo of a project?
+    * [Perl MetaCPAN](https://metacpan.org/)
+    * [Python PyPI](https://pypi.org/)
+    * [3rd party package registries](https://code-maven.com/package-registry)
+    * Google search?
+
+* What are [yaml](https://yaml.org/) files See the [repo](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) and the [site](https://osdc.code-maven.com/)
+
+* [Video 1](https://youtu.be/Ydbkk1ZKDLk):
+* [Video 2](https://youtu.be/WuKd66rLTKw):
+
+## Assignment 2
+
+* Add (more) projects you are interested in.
+* Follow our project
+* Follow my projects
+* Follow each other's projects.
+
+* Convert 5 more organizations to yaml files.
+* Find more organizations. (more github organizations belonging to governments, universities, or corporations that are not even in the md files yet. I realize that converting the md files to yaml files should be probably the priority for this project so it might be better to do a few more of that.)
+* Write a blog post (tag with #osdc, notes, links, etc.)
+* Send a PR to add your blog post to your JSON file.
+
+* Dead-line: 2023.03.21 midnight.
+
+## Next:
+
+## Session 3 2023.03.23 13:30-14:30
+
+
+* Create Github pages.
+    * Markdown.
+
+* Introduce git client.
+    * Setup local git configure, clone, add, commit, etc.
+
+
+* Video 1: Ran Moshe
+
+
+## Assignment 3
+
+* Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Explain why linking and the anchors are important.
+
+
+## Session 4 2023.03.30 13:30-14:30
+
+* Video 1: Ran Moshe
+
+## Session 5 2023.04.13 12:15-14:30
+
+* Video 1: Ran Moshe
+* Video 2: Ran Moshe
+
+## Session 6 2023.04.20 12:15-14:30
 
 * Video 1:
 * Video 2:
 
+## Session 7 2023.04.27 12:15-14:30
 
+* Video 1:
+* Video 2:
 
-Show how to follow projects on GitHub to get notifocations.
-Assignment: follow our project, follow my projects, follow each other's projects.
+## Session 8 2023.05.04 12:15-14:30
 
+* Video 1:
+* Video 2:
+
+## Session 9 2023.05.11 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 10 2023.06.01 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 11 2023.06.08 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 12 2023.06.15 12:15-14:30
+
+* Video 1:
+* Video 2:
+
+## Session 13 2023.06.22 12:15-14:30
+
+* Video 1:
+* Video 2:
 

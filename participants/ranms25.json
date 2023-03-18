@@ -1,0 +1,22 @@
+{
+    "name": "Ran Moshe",
+    "github": "ranms25",
+    "devto": "ranms25",
+    "github_page": "false",
+    "posts": [
+        {
+            "url": "https://dev.to/ranms25/osdc-2023-first-assignment-kp5"
+        },
+        {
+            "url": "https://dev.to/ranms25/osdc-2023-second-assignment-11me"
+        }
+    ],
+    "projects": [
+        "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
+        "https://github.com/FredAdiv/osdc-2023-03-azrieli",
+        "https://github.com/FredAdiv/Coursera_Capstone",
+        "https://github.com/chapnitsky/bsc",
+        "https://github.com/ansible",
+        "https://github.com/kantoniko"
+    ]
+}
