@@ -76,7 +76,7 @@
 
 * About GitHub Actions: they are programs triggered by some action. In this case by a pull request.
 
-* [Video 1](https://youtu.be/uiJjhFW6TH4): (Yael Levy)
+* [Video 1-1](https://youtu.be/uiJjhFW6TH4): (Yael Levy)
     * 00:00 About the course
     * 04:28 Overview of the course
     * 18:46 About Gabor Szabo
@@ -91,7 +91,7 @@
     * 40:10 Tags
     * 48:28 Text in markdown
 
-* [Video 2](https://youtu.be/-euAGPpymjQ): (Eliyahou Levy)
+* [Video 1-2](https://youtu.be/-euAGPpymjQ): (Eliyahou Levy)
     * 00:00 Forem issues to solve bug
     * 06:50 Inbound links
     * 08:44 Version control
@@ -143,15 +143,15 @@
 
 * What are [yaml](https://yaml.org/) files See the [repo](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) and the [site](https://osdc.code-maven.com/)
 
-* [Video 1](https://youtu.be/Ydbkk1ZKDLk): (Freddy Adiv)
+* [Video 2-1](https://youtu.be/Ydbkk1ZKDLk): (Freddy Adiv)
    * 00:00 Recap of last session
    * 07:25 Dev.to - navigation using tags
    * 15:57 Opening issues in git
    * 19:00 Issues and pull requests
    * 30:55 Sample for real project interaction for Forem
    * 42:10 Git project concepts, Forking and comminting
-   * 
-* [Video 2](https://youtu.be/WuKd66rLTKw): (Freddy Adiv)
+
+* [Video 2-2](https://youtu.be/WuKd66rLTKw): (Freddy Adiv)
    * 00:00 Locking files - pros and cons
    * 02:50 Following a project and notifications in Git
    * 05:35 Ranking mechanizm of projects
