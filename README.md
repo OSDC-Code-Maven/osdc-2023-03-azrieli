@@ -143,8 +143,24 @@
 
 * What are [yaml](https://yaml.org/) files See the [repo](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) and the [site](https://osdc.code-maven.com/)
 
-* [Video 1](https://youtu.be/Ydbkk1ZKDLk):
-* [Video 2](https://youtu.be/WuKd66rLTKw):
+* [Video 1](https://youtu.be/Ydbkk1ZKDLk): (Freddy Adiv)
+   * 00:00 Recap of last session
+   * 07:25 Dev.to - navigation using tags
+   * 15:57 Opening issues in git
+   * 19:00 Issues and pull requests
+   * 30:55 Sample for real project interaction for Forem
+   * 42:10 Git project concepts, Forking and comminting
+   * 
+* [Video 2](https://youtu.be/WuKd66rLTKw): (Freddy Adiv)
+   * 00:00 Locking files - pros and cons
+   * 02:50 Following a project and notifications in Git
+   * 05:35 Ranking mechanizm of projects
+   * 06:10 Sturcture of Git URLs, projects/ organizations/ repos
+   * 15:01 3rd party packages registry
+   * 17:45 Open source by orgznizations
+   * 21:35 YAML file format
+   * 31:15 Adding a new organization using YAML
+   * 50:22 Assignments for next week
 
 ## Assignment 2
 
