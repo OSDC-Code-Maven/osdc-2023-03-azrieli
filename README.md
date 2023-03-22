@@ -180,6 +180,10 @@
 
 ## Session 3 2023.03.23 13:30-14:30
 
+* Comments:
+    * Send the deletition and addition in the same pull-request. Even better, in the same commit
+    * There were conflicts as the same person changed subsequent lines in separate changes.
+
 
 * Create Github pages.
     * Markdown.
