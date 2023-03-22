@@ -1,6 +1,8 @@
 {
     "title": "תיכון מערכות תוכנה",
     "id": "osdc-2023-03-azrieli",
+    "pages": true,
     "projects": true,
-    "start_date": "2023.03.09"
+    "start_date": "2023.03.09",
+    "end_date": null
 }
