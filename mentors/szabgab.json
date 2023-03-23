@@ -4,7 +4,7 @@
     "github": "szabgab",
     "gitlab": "szabgab",
     "devto": "szabgab",
-    "github_page": "true",
+    "github_page": true,
     "posts": [
         {
             "url": "https://dev.to/szabgab/open-source-development-courses-5d4b"
