@@ -9,6 +9,7 @@
 
 * [Session 1: Welcome, Version Control, Journal, Slack](#session-1-welcome-version-control-journal-slack)
 * [Assignment 1](#assignment-1)
+* [Session 2: Finding projects, git workflows, ci, yaml](#session-2-finding-projects-git-workflows-ci-yaml)
 * [Assignment 2](#assignment-2)
 * [Next](#next)
 
