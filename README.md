@@ -11,6 +11,7 @@
 * [Assignment 1](#assignment-1)
 * [Session 2: Finding projects, git workflows, ci, yaml](#session-2-finding-projects-git-workflows-ci-yaml)
 * [Assignment 2](#assignment-2)
+* [Assignment 3](#assignment-3)
 * [Next](#next)
 
 ## Videos
@@ -177,31 +178,86 @@
 
 * Dead-line: 2023.03.21 midnight.
 
-## Next:
-
 ## Session 3 2023.03.23 13:30-14:30
 
-* Comments:
-    * Send the deletition and addition in the same pull-request. Even better, in the same commit
-    * There were conflicts as the same person changed subsequent lines in separate changes.
-
-
 * Create Github pages.
-    * Markdown.
+* Markdown.
 
 * Introduce git client.
     * Setup local git configure, clone, add, commit, etc.
 
+* Download and install the git client from [git-scm](https://git-scm.com/)
+* In Windows, start the git-bash application
 
-* Video 1: Ran Moshe
+* On Github create the USERNAME.github.io repository (with your USERNAME)
+
+
+```
+git clone git@github.com:cm-demo/cm-demo.github.io.git
+cd cm-demo.github.io
+```
+
+```
+mkdir docs
+    Create the file docs/index.md
+git add .
+git commit -m "first file"
+```
+
+
+Configure the git client (if it is not configured yet)
+
+```
+git config --global --add user.name "Foo Bar"
+git config --global --add user.email foo@bar.com
+
+cat ~/.gitconfig
+```
+
+Create private/public key pair. put the public key in your github account.
+
+```
+ssh-keygen
+```
+
+```
+git commit --amend --reset-author -m "first commit"
+```
+
+```
+git log
+```
+
+
+```
+git status
+git add docs/index.md
+git commit -m "add more content"
+git push
+```
+
+* [Video 1](https://youtu.be/s4N0CGTP-GA): Ran Moshe
 
 
 ## Assignment 3
 
-* Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Explain why linking and the anchors are important.
+* Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Use this to show a lot more interesting information about yourself to both your future employer, but also to friends and family. Check out what others in the [other course](https://osdc.code-maven.com/instances) did for inspiration.
+* Write a blog post about what you did, link it to the course web site, to your own new web site, to the pull-requests you made.
+* Update your JSON file with the new blog post and also add an entry of `"githu_page": true` to your JSON file if it is not there yet.
 
+
+* Dead-line: 2023.03.28 midnight.
+
+## Next:
 
 ## Session 4 2023.03.30 13:30-14:30
+
+* Comments:
+    * Send the deletition and addition in the same pull-request. Even better, in the same commit
+    * There were conflicts as the same person changed subsequent lines in separate changes.
+* Explain why linking and the anchors are important.
+* git-scm configure the default editor
+
 
 * Video 1: Ran Moshe
 
