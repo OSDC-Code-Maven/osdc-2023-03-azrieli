@@ -237,7 +237,23 @@ git push
 ```
 
 * [Video 1](https://youtu.be/s4N0CGTP-GA): Ran Moshe
-
+   * 00:00 Windows - Oracle VM VirtualeBox
+   * 07:40 Back to local linux PC 
+   * 07:50 Create repository for Github pages site (on Github)
+   * 09:11 Clone for create repository localy (on PC)
+   * 13:00 Download and install the git client from git-scm
+   * 15:05 In Windows, git-bash application
+   * 17:24 Setup local git configure (add, commit, config, etc.)
+   * 29:35 Create private/public key pair
+   * 35:10 Push changes (git push)
+   * 39:45 Congif github.io repository (on Github-settings)
+   * 42:38 Creating the Github page using Markdown
+   * 44:30 Push more changes (git status, add, commit, log. etc.)
+   * 47:50 The Github page after changes
+   * 48:45 Adding images to our Github page (add another file)
+   * 52:00 Push images and more changes (git status, add, commit, etc.)
+   * 54:23 Jekyll (from Markdown to Github)
+   * 55:30 Assignments for next week
 
 ## Assignment 3
 
