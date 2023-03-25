@@ -2,14 +2,16 @@
     "name": "Eliyahou Levy",
     "github": "Eliyahou",
     "devto": "Eliyahou",
-    "github_page": "true",
+    "github_page": true,
     "posts": [
         {
             "url": "https://dev.to/eliyahou/eliyahou-levi-post-20fh"
+        },
+        {
+            "url": "https://dev.to/eliyahou/post-2-1clk"
         }
     ],
     "projects": [
-        "https://dev.to/yaellevy/my-new-devto-post-5bj1",
         "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
         "https://github.com/FredAdiv/Coursera_Capstone"
     ]

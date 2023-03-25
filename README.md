@@ -9,7 +9,9 @@
 
 * [Session 1: Welcome, Version Control, Journal, Slack](#session-1-welcome-version-control-journal-slack)
 * [Assignment 1](#assignment-1)
+* [Session 2: Finding projects, git workflows, ci, yaml](#session-2-finding-projects-git-workflows-ci-yaml)
 * [Assignment 2](#assignment-2)
+* [Assignment 3](#assignment-3)
 * [Next](#next)
 
 ## Videos
@@ -76,7 +78,7 @@
 
 * About GitHub Actions: they are programs triggered by some action. In this case by a pull request.
 
-* [Video 1](https://youtu.be/uiJjhFW6TH4): (Yael Levy)
+* [Video 1-1](https://youtu.be/uiJjhFW6TH4): (Yael Levy)
     * 00:00 About the course
     * 04:28 Overview of the course
     * 18:46 About Gabor Szabo
@@ -91,7 +93,7 @@
     * 40:10 Tags
     * 48:28 Text in markdown
 
-* [Video 2](https://youtu.be/-euAGPpymjQ): (Eliyahou Levy)
+* [Video 1-2](https://youtu.be/-euAGPpymjQ): (Eliyahou Levy)
     * 00:00 Forem issues to solve bug
     * 06:50 Inbound links
     * 08:44 Version control
@@ -143,8 +145,24 @@
 
 * What are [yaml](https://yaml.org/) files See the [repo](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) and the [site](https://osdc.code-maven.com/)
 
-* [Video 1](https://youtu.be/Ydbkk1ZKDLk):
-* [Video 2](https://youtu.be/WuKd66rLTKw):
+* [Video 2-1](https://youtu.be/Ydbkk1ZKDLk): (Freddy Adiv)
+   * 00:00 Recap of last session
+   * 07:25 Dev.to - navigation using tags
+   * 15:57 Opening issues in git
+   * 19:00 Issues and pull requests
+   * 30:55 Sample for real project interaction for Forem
+   * 42:10 Git project concepts, Forking and comminting
+
+* [Video 2-2](https://youtu.be/WuKd66rLTKw): (Freddy Adiv)
+   * 00:00 Locking files - pros and cons
+   * 02:50 Following a project and notifications in Git
+   * 05:35 Ranking mechanizm of projects
+   * 06:10 Sturcture of Git URLs, projects/ organizations/ repos
+   * 15:01 3rd party packages registry
+   * 17:45 Open source by orgznizations
+   * 21:35 YAML file format
+   * 31:15 Adding a new organization using YAML
+   * 50:22 Assignments for next week
 
 ## Assignment 2
 
@@ -160,27 +178,102 @@
 
 * Dead-line: 2023.03.21 midnight.
 
-## Next:
-
 ## Session 3 2023.03.23 13:30-14:30
 
-
 * Create Github pages.
-    * Markdown.
+* Markdown.
 
 * Introduce git client.
     * Setup local git configure, clone, add, commit, etc.
 
+* Download and install the git client from [git-scm](https://git-scm.com/)
+* In Windows, start the git-bash application
 
-* Video 1: Ran Moshe
+* On Github create the USERNAME.github.io repository (with your USERNAME)
 
+
+```
+git clone git@github.com:cm-demo/cm-demo.github.io.git
+cd cm-demo.github.io
+```
+
+```
+mkdir docs
+    Create the file docs/index.md
+git add .
+git commit -m "first file"
+```
+
+
+Configure the git client (if it is not configured yet)
+
+```
+git config --global --add user.name "Foo Bar"
+git config --global --add user.email foo@bar.com
+
+cat ~/.gitconfig
+```
+
+Create private/public key pair. put the public key in your github account.
+
+```
+ssh-keygen
+```
+
+```
+git commit --amend --reset-author -m "first commit"
+```
+
+```
+git log
+```
+
+
+```
+git status
+git add docs/index.md
+git commit -m "add more content"
+git push
+```
+
+* [Video 1](https://youtu.be/s4N0CGTP-GA): Ran Moshe
+   * 00:00 Windows - Oracle VM VirtualeBox
+   * 07:40 Back to local linux PC 
+   * 07:50 Create repository for Github pages site (on Github)
+   * 09:11 Clone for create repository localy (on PC)
+   * 13:00 Download and install the git client from git-scm
+   * 15:05 In Windows, git-bash application
+   * 17:24 Setup local git configure (add, commit, config, etc.)
+   * 29:35 Create private/public key pair
+   * 35:10 Push changes (git push)
+   * 39:45 Congif github.io repository (on Github-settings)
+   * 42:38 Creating the Github page using Markdown
+   * 44:30 Push more changes (git status, add, commit, log. etc.)
+   * 47:50 The Github page after changes
+   * 48:45 Adding images to our Github page (add another file)
+   * 52:00 Push images and more changes (git status, add, commit, etc.)
+   * 54:23 Jekyll (from Markdown to Github)
+   * 55:30 Assignments for next week
 
 ## Assignment 3
 
-* Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Explain why linking and the anchors are important.
+* Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Use this to show a lot more interesting information about yourself to both your future employer, but also to friends and family. Check out what others in the [other course](https://osdc.code-maven.com/instances) did for inspiration.
+* Write a blog post about what you did, link it to the course web site, to your own new web site, to the pull-requests you made.
+* Update your JSON file with the new blog post and also add an entry of `"githu_page": true` to your JSON file if it is not there yet.
 
+
+* Dead-line: 2023.03.28 midnight.
+
+## Next:
 
 ## Session 4 2023.03.30 13:30-14:30
+
+* Comments:
+    * Send the deletition and addition in the same pull-request. Even better, in the same commit
+    * There were conflicts as the same person changed subsequent lines in separate changes.
+* Explain why linking and the anchors are important.
+* git-scm configure the default editor
+
 
 * Video 1: Ran Moshe
 

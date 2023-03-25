@@ -2,13 +2,16 @@
     "name": "Ran Moshe",
     "github": "ranms25",
     "devto": "ranms25",
-    "github_page": "false",
+    "github_page": true,
     "posts": [
         {
             "url": "https://dev.to/ranms25/osdc-2023-first-assignment-kp5"
         },
         {
             "url": "https://dev.to/ranms25/osdc-2023-second-assignment-11me"
+        },
+        {
+            "url": "https://dev.to/ranms25/osdc-2023-second-assignment-3lhe"
         }
     ],
     "projects": [

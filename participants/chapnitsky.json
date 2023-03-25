@@ -4,7 +4,7 @@
     "github": "chapnitsky",
     "gitlab": "chapnitsky",
     "devto": "chapnitsky",
-    "github_page": "true",
+    "github_page": true,
     "posts": [
         {
             "url": "https://dev.to/chapnitsky/assignment-1-getting-started-46b1"

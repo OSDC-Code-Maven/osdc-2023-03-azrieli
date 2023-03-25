@@ -3,12 +3,10 @@
     "linkedin": "freddyadiv",
     "github": "FredAdiv",
     "devto": "FredAdiv",
-    "github_page": "true",
+    "github_page": true,
     "posts": [
         {
-            "title": "Location for a new hotel in Toronto",
-            "url": "https://github.com/FredAdiv/Coursera_Capstone/blob/master/Capstone%20project%20week%201.pdf",
-            "published_at": "2023-01-08T20:29:48Z"
+            "url": "https://dev.to/fredadiv/summery-of-lesson-2-3ee4"
         }
     ],
     "projects": [
