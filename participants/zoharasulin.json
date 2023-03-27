@@ -3,12 +3,16 @@
     "name": "Zohar Asulin",
     "github": "zoharasulin",
     "devto": "zoharasulin",
+    "githu_page": true,
     "posts": [
         {
             "url": "https://dev.to/zoharasulin/assignment-1-version-control-journal-slack-3924"
         },
         {
             "url": "https://dev.to/zoharasulin/osdc-2023-second-assignment-5fg5"
+        },
+        {
+            "url": "https://dev.to/zoharasulin/osdc-2023-assignment3-1b06"
         }
     ],
     "projects": [
