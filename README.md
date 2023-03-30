@@ -12,6 +12,7 @@
 * [Session 2: Finding projects, git workflows, ci, yaml](#session-2-finding-projects-git-workflows-ci-yaml)
 * [Assignment 2](#assignment-2)
 * [Assignment 3](#assignment-3)
+* [Assignment 4](#assignment-4)
 * [Next](#next)
 
 ## Videos
@@ -264,9 +265,40 @@ git push
 
 * Dead-line: 2023.03.28 midnight.
 
-## Next:
 
 ## Session 4 2023.03.30 13:30-14:30
+
+* We looked at the [PyDigger](https://pydigger.com/) web site and the [Stats](https://pydigger.com/stats) page from where we had links to
+* projects [have link to VCS but no license field](https://pydigger.com/search/has-vcs-no-license)
+* projects [have link to VCS but no author field](https://pydigger.com/search/has-vcs-no-author)
+* projects [have link to VCS but no summary](https://pydigger.com/search/has-vcs-no-summary)
+* projects where PyDigger [did not find VCS](https://pydigger.com/search/no-vcs)
+
+* We looked at pypi page of [numpy](https://pypi.org/project/numpy/)
+* We sent [this Pull-Request](https://github.com/vangheem/mr.flagly/pull/1)
+
+* We found that the [mrflagly](https://pydigger.com/pypi/mrflagly) project was missing the author field from the meta-data.
+* We went to its GitHub repository, found that it was using pyproject.toml and found the name and email of the author.
+* [pyproject.toml file specification](https://python-poetry.org/docs/pyproject/)
+
+* We also looked at [pglib](https://pydigger.com/pypi/pglib) and saw that it is hosted on GitLab.
+
+* The [licenses page](https://pydigger.com/licenses) on PyDigger was [fixed](https://github.com/szabgab/pydigger.com/commit/bfc242d95e9ae3c968b35b6f0910ad7c8c7ad6af) a few hours before the lecture.
+* OSI approved [Open Source licenses](https://opensource.org/licenses/).
+
+* I mentioned the recommended books listed at the bottom of the OSDC main page. Especially I mentioned the one I am reading now [Uncurled by Daniel Stenberg, author of curl](https://un.curl.dev/).
+
+* [Video 1](https://youtu.be/xIP13AK4usI): Ran Moshe
+
+# Assignment 4
+
+Find 5 (was 10) projects via [PyDigger](https://pydigger.com/) that have no author, not license, or no VCS. Add the missing information and send a pull-request. In the Pull-Request mention that you found the package missing this information via [PyDigger](https://pydigger.com/), that you are sending it as part of the [OSDC](https://osdc.code-maven.com/), and mention me as well: @szabgab
+
+* Dead-line: 2023.03.28 midnight.
+
+## Next:
+
+## Session 5 2023.04.13 12:15-14:30
 
 * Comments:
     * Send the deletition and addition in the same pull-request. Even better, in the same commit
@@ -274,10 +306,6 @@ git push
 * Explain why linking and the anchors are important.
 * git-scm configure the default editor
 
-
-* Video 1: Ran Moshe
-
-## Session 5 2023.04.13 12:15-14:30
 
 * Video 1: Ran Moshe
 * Video 2: Ran Moshe
