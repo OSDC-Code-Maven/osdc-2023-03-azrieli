@@ -14,8 +14,11 @@
         },
         {
             "url": "https://dev.to/chapnitsky/visit-my-github-page-website-3ibb"
-        }
-     ],
+        },
+        {
+            "url": "https://dev.to/chapnitsky/contribution-to-github-python-repositories-42h2"
+        }     
+    ],
     "projects":[
         "https://github.com/chapnitsky/bsc",
         "https://github.com/chapnitsky/Client-Server",
