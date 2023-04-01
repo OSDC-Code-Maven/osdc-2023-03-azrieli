@@ -289,6 +289,26 @@ git push
 * I mentioned the recommended books listed at the bottom of the OSDC main page. Especially I mentioned the one I am reading now [Uncurled by Daniel Stenberg, author of curl](https://un.curl.dev/).
 
 * [Video 1](https://youtu.be/xIP13AK4usI): Ran Moshe
+   * 00:00 PyDigger and pypi.org (Introduction)
+   * 03:00 last updates of pypi (show in CLI- use grep & ack to get the relevant url) 
+   * 04:45 PyDigger-Statistics
+   * 06:30 No VCS (PyDigger-Statistics)
+   * 07:50 CI (PyDigger-Statistics)
+   * 09:30 Has VCS (PyDigger-Statistics)
+   * 11:05 Has VCS license (PyDigger-Statistics)
+   * 12:35 Has VCS author (PyDigger-Statistics)
+   * 13:30 mrflalgy (example-Has VCS but no author)
+   * 14:40 pyproject.toml author field
+   * 20:00 Explain about pyproject.toml file & sending PR (mrflalgy- example)
+   * 32:20 types-pytz (example-Has VCS but no author)
+   * 34:50 pglib (example-Has VCS but no author (GitLab & setup.cfg file))
+   * 37:00 Has VCS summary (PyDigger-Statistics)
+   * 41:00 Adyen (example-Has VCS but no license)
+   * 41:56 Details Licenses page (PyDigger-Statistics)
+   * 45:10 Recommended books listed
+   * 46:10 open source initiative
+   * 51:00 searchkit (example-no VCS)
+   * 55:15 Assignments for next week
 
 # Assignment 4
 
