@@ -332,8 +332,8 @@ Find 5 (was 10) projects via [PyDigger](https://pydigger.com/) that have no auth
 
 ## Session 6 2023.04.20 12:15-14:30
 
-* Video 1:
-* Video 2:
+* Video 1: Doron Chapnitsky
+* Video 2: Doron Chapnitsky
 
 ## Session 7 2023.04.27 12:15-14:30
 
