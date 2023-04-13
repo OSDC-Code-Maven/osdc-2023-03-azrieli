@@ -15,6 +15,9 @@
 * [Assignment 3](#assignment-3)
 * [Session 4: PyDigger, updating meta data of a Python project](#session-4-pydigger-updating-meta-data-of-a-python-project)
 * [Assignment 4](#assignment-4)
+* [Session 5](#session-5)
+* [Assignment 5](#assignment-5)
+
 * [Next](#next)
 
 ## Videos
@@ -309,22 +312,57 @@ Date: 2023.03.30 13:30-14:30
    * 32:20 types-pytz (example-Has VCS but no author)
    * 34:50 pglib (example-Has VCS but no author (GitLab & setup.cfg file))
    * 37:00 Has VCS summary (PyDigger-Statistics)
-   * 41:00 Adyen (example-Has VCS but no license)
-   * 41:56 Details Licenses page (PyDigger-Statistics)
+   * 41:00 Adyen (example-Has VCS but no license) * 41:56 Details Licenses page (PyDigger-Statistics)
    * 45:10 Recommended books listed
    * 46:10 open source initiative
    * 51:00 searchkit (example-no VCS)
    * 55:15 Assignments for next week
 
-# Assignment 4
+## Assignment 4
 
 Find 5 (was 10) projects via [PyDigger](https://pydigger.com/) that have no author, not license, or no VCS. Add the missing information and send a pull-request. In the Pull-Request mention that you found the package missing this information via [PyDigger](https://pydigger.com/), that you are sending it as part of the [OSDC](https://osdc.code-maven.com/), and mention me as well: @szabgab
 
 * Dead-line: 2023.03.28 midnight.
 
+
+## Session 5
+
+Date: 2023.04.13 12:15-14:30
+
+* We need Better projects (e.g. projects you use at your work) we discussed what are GitHub organizations and what are repositories.
+
+* How to update a PR that was not accepted yet.
+    * We created a [new PR](https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli/pulls) via the Web interface of GitHub that failed the CI and the owner also commented on it.
+    * Then we found the fork and the branch in the fork and updated the file.
+    * It automatically updated the PR and started the CI again.
+
+* We discussed [this PR](https://github.com/iterative/dvc-data/pull/340) that needs a fix.
+
+* We discussed (in theory) how to handle a case when we plan to create a change for an open source project that might take us a month.
+    * How to avoid breakage caused by changes ceated on the main project that conflict with the change we make.
+    * The answer is that we cannot totally avoid those conflicts, but we can reduce their impact by communication and by frequently aligning our work with that of the main branch.
+    * I mentioned `rebase`. We will see it in action later.
+* We briefly discussed if people get paid for their open source work.
+
+* [Video 1](https://youtu.be/Im5vaQ6CJqo): Ran Moshe
+* [Video 2](https://youtu.be/gzbDrmieM7k): Ran Moshe
+
+
+## Assignment 5
+
+* Fix the PRs that are problematic. (Where the CI failed or where the owner asked for an update)
+* Add better projects to your JSON (that are not ours)
+* Send more pull-requests, preferably not just for the `author` filed to make it more interesting and more challenging to you too.
+* In those new PRs, include a better explanation of why this change is useful. If you are not sure what to write, ask on our Slack.
+
+* Dead-line: TBD.
+
 ## Next:
 
-## Session 5 2023.04.13 12:15-14:30
+## Session 6 2023.04.20 12:15-14:30
+
+* Video 1: Doron Chapnitsky
+* Video 2: Doron Chapnitsky
 
 * Comments:
     * Send the deletition and addition in the same pull-request. Even better, in the same commit
@@ -332,14 +370,8 @@ Find 5 (was 10) projects via [PyDigger](https://pydigger.com/) that have no auth
 * Explain why linking and the anchors are important.
 * git-scm configure the default editor
 
+* Windows install (again), process of clone/fork/pull
 
-* Video 1: Ran Moshe
-* Video 2: Ran Moshe
-
-## Session 6 2023.04.20 12:15-14:30
-
-* Video 1: Doron Chapnitsky
-* Video 2: Doron Chapnitsky
 
 ## Session 7 2023.04.27 12:15-14:30
 
