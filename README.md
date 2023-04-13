@@ -11,7 +11,9 @@
 * [Assignment 1](#assignment-1)
 * [Session 2: Finding projects, git workflows, ci, yaml](#session-2-finding-projects-git-workflows-ci-yaml)
 * [Assignment 2](#assignment-2)
+* [Session 3: Github Pages; Markdown](#session-3-github-pages-markdown)
 * [Assignment 3](#assignment-3)
+* [Session 4: PyDigger, updating meta data of a Python project](#session-4-pydigger-updating-meta-data-of-a-python-project)
 * [Assignment 4](#assignment-4)
 * [Next](#next)
 
@@ -179,7 +181,9 @@
 
 * Dead-line: 2023.03.21 midnight.
 
-## Session 3 2023.03.23 13:30-14:30
+## Session 3: Github Pages; Markdown
+
+Date: 2023.03.23 13:30-14:30
 
 * Create Github pages.
 * Markdown.
@@ -266,7 +270,9 @@ git push
 * Dead-line: 2023.03.28 midnight.
 
 
-## Session 4 2023.03.30 13:30-14:30
+## Session 4: PyDigger, updating meta data of a Python project
+
+Date: 2023.03.30 13:30-14:30
 
 * We looked at the [PyDigger](https://pydigger.com/) web site and the [Stats](https://pydigger.com/stats) page from where we had links to
 * projects [have link to VCS but no license field](https://pydigger.com/search/has-vcs-no-license)
