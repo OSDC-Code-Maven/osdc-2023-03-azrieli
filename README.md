@@ -11,7 +11,9 @@
 * [Assignment 1](#assignment-1)
 * [Session 2: Finding projects, git workflows, ci, yaml](#session-2-finding-projects-git-workflows-ci-yaml)
 * [Assignment 2](#assignment-2)
+* [Session 3: Github Pages; Markdown](#session-3-github-pages-markdown)
 * [Assignment 3](#assignment-3)
+* [Session 4: PyDigger, updating meta data of a Python project](#session-4-pydigger-updating-meta-data-of-a-python-project)
 * [Assignment 4](#assignment-4)
 * [Next](#next)
 
