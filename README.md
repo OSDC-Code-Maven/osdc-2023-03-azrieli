@@ -168,7 +168,7 @@
    * 17:45 Open source by orgznizations
    * 21:35 YAML file format
    * 31:15 Adding a new organization using YAML
-   * 50:22 Assignments for next week
+   * 50:22 Assignments
 
 ## Assignment 2
 
@@ -261,7 +261,7 @@ git push
    * 48:45 Adding images to our Github page (add another file)
    * 52:00 Push images and more changes (git status, add, commit, etc.)
    * 54:23 Jekyll (from Markdown to Github)
-   * 55:30 Assignments for next week
+   * 55:30 Assignments
 
 ## Assignment 3
 
@@ -316,7 +316,7 @@ Date: 2023.03.30 13:30-14:30
    * 45:10 Recommended books listed
    * 46:10 open source initiative
    * 51:00 searchkit (example-no VCS)
-   * 55:15 Assignments for next week
+   * 55:15 Assignments
 
 ## Assignment 4
 
@@ -353,6 +353,10 @@ Date: 2023.04.13 12:15-14:30
 * Fix the PRs that are problematic. (Where the CI failed or where the owner asked for an update)
 * Add better projects to your JSON (that are not ours)
 * Send more pull-requests, preferably not just for the `author` filed to make it more interesting and more challenging to you too.
+* Ideas for PR besides the one we discussed in the previous session:
+    * Makes sure the README (or CONTRIBUTION) file in a project has clear instructions how to set up the local development environment and how to run the tests locally. (pick a project that has no, or very few stars)
+    * If you can find any open source project with something you feel you can already fix, feel free to do that.
+    * Check out my projects in [szabgab](https://github.com/szabgab/) or [OSDC-Code-Maven](https://github.com/OSDC-Code-Maven/) or [Kantoniko](https://github.com/kantoniko/) Feel free to send a PR for them, or even just to discuss open issues.
 * In those new PRs, include a better explanation of why this change is useful. If you are not sure what to write, ask on our Slack.
 
 * Dead-line: TBD.
