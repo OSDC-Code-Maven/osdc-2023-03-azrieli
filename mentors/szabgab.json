@@ -17,7 +17,7 @@
     ],
     "projects": [
         "https://github.com/pallets/flask",
-        "https://github.com/metacpan"
+        "https://github.com/metacpan",
         "https://github.com/psf/requests"
     ]
 }
