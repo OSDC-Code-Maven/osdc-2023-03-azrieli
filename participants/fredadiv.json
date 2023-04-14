@@ -13,9 +13,16 @@
         },
         {
             "url": "https://dev.to/fredadiv/assignment-4-5d31"
+        },
+        {
+            "url": "https://dev.to/fredadiv/some-interesting-github-project-to-follow-3l3g"
         }
+        
     ],
     "projects": [
-        "https://github.com/FredAdiv/Coursera_Capstone"
+        "https://github.com/FredAdiv/Coursera_Capstone",
+        "https://github.com/Torantulino/Auto-GPT",
+        "https://github.com/toeverything/AFFiNE",
+        "https://github.com/buger/goreplay"
     ]
 }
