@@ -345,8 +345,33 @@ Date: 2023.04.13 12:15-14:30
 * We briefly discussed if people get paid for their open source work.
 
 * [Video 1](https://youtu.be/Im5vaQ6CJqo): Ran Moshe
-* [Video 2](https://youtu.be/gzbDrmieM7k): Ran Moshe
+   * 00:00 Meetups
+   * 03:20 Meetup - Code Mavens
+   * 04:45 Meetup - PyWeb-IL
+   * 06:50 Find a better open source projects
+   * 09:00 Find a better open source projects - metacpan
+   * 15:40 Find a better open source projects - perl5-dbi
+   * 17:05 Find a better open source projects - forem
+   * 18:50 Find a better open source projects - psf/requests
+   * 20:55 requirements.txt file 
+   * 28:20 dependabot.yml file
+   * 34:00 constraints.txt file
+   * 36:40 Find better open source projects - pyflakes
+   * 39:55 How to update a PR that was not accepted yet
+   * 44:20 How to update a PR that was not accepted yet - create a new PR
 
+* [Video 2](https://youtu.be/gzbDrmieM7k): Ran Moshe
+   * 00:00 How to update a PR that was not accepted yet - CI failed and the owner commented 
+   * 03:00 How to update a PR that was not accepted yet – find fork and branch to update PR 
+   * 05:50 How to update a PR that was not accepted yet - automatically updated the PR & started the CI again.
+   * 11:55 Explain for failed git push
+   * 17:00  How to avoid breakage caused by changes created on the main project by us – in organizations 
+   * 22:05 How to avoid breakage caused by changes created on the main project by us – in open source project
+   * 34:20 rebase
+   * 43:00 Assignments
+   * 44:00 Assignments - projects in szabgab, OSDC-Code-Maven, Kantoniko and GitHub Topic
+   * 51:40 Do people get paid for their open source work   
+   * 57:00 Previous and future assignments explained
 
 ## Assignment 5
 
