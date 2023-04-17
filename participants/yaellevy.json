@@ -9,13 +9,21 @@
         },
         {
             "url": "https://dev.to/yaellevy/lesson-2-15l"
+        },
+        {
+            "url": "https://dev.to/yaellevy/session-3-create-github-pages-markdown-mpo"
+        },
+        {
+            "url": "https://dev.to/yaellevy/ex-4-familiarity-with-github-projects-pr-for-fixing-1cfj"
         }
         
     ],
     "projects": [
         "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
         "https://github.com/FredAdiv/Coursera_Capstone",
-        "https://github.com/eliyahou"
-       
+        "https://github.com/eliyahou",
+        "https://github.com/Messi-Q/Smart-Contract-Dataset",
+        "https://github.com/Messi-Q/GNNSCVulDetector",
+        "https://github.com/kadenzipfel/smart-contract-vulnerabilities"
     ]
 }

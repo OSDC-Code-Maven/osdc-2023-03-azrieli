@@ -15,6 +15,9 @@
         },
         {
             "url": "https://dev.to/ranms25/osdc-2023-assignment4-3jak"
+        },
+        {
+            "url": "https://dev.to/ranms25/osdc-2023-assignment5-2a0f"
         }
     ],
     "projects": [
@@ -23,6 +26,12 @@
         "https://github.com/FredAdiv/Coursera_Capstone",
         "https://github.com/chapnitsky/bsc",
         "https://github.com/ansible",
-        "https://github.com/kantoniko"
+        "https://github.com/kantoniko",
+        "https://github.com/manbobo2002/rekognition-demo",
+        "https://github.com/pierrotsmnrd/earthquakes",
+        "https://github.com/yijingru/Vertebra-Landmark-Detection",
+        "https://github.com/zc402/Scoliosis",
+        "https://github.com/Fernando23296/scoliosisx",
+        "https://github.com/wiguider/Ensemble-Deep-Learning-to-Classify-Scoliosis-and-Healthy-Subjects"
     ]
 }

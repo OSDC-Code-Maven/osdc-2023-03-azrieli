@@ -15,6 +15,9 @@
 * [Assignment 3](#assignment-3)
 * [Session 4: PyDigger, updating meta data of a Python project](#session-4-pydigger-updating-meta-data-of-a-python-project)
 * [Assignment 4](#assignment-4)
+* [Session 5](#session-5)
+* [Assignment 5](#assignment-5)
+
 * [Next](#next)
 
 ## Videos
@@ -165,7 +168,7 @@
    * 17:45 Open source by orgznizations
    * 21:35 YAML file format
    * 31:15 Adding a new organization using YAML
-   * 50:22 Assignments for next week
+   * 50:22 Assignments
 
 ## Assignment 2
 
@@ -258,7 +261,7 @@ git push
    * 48:45 Adding images to our Github page (add another file)
    * 52:00 Push images and more changes (git status, add, commit, etc.)
    * 54:23 Jekyll (from Markdown to Github)
-   * 55:30 Assignments for next week
+   * 55:30 Assignments
 
 ## Assignment 3
 
@@ -309,22 +312,86 @@ Date: 2023.03.30 13:30-14:30
    * 32:20 types-pytz (example-Has VCS but no author)
    * 34:50 pglib (example-Has VCS but no author (GitLab & setup.cfg file))
    * 37:00 Has VCS summary (PyDigger-Statistics)
-   * 41:00 Adyen (example-Has VCS but no license)
-   * 41:56 Details Licenses page (PyDigger-Statistics)
+   * 41:00 Adyen (example-Has VCS but no license) * 41:56 Details Licenses page (PyDigger-Statistics)
    * 45:10 Recommended books listed
    * 46:10 open source initiative
    * 51:00 searchkit (example-no VCS)
-   * 55:15 Assignments for next week
+   * 55:15 Assignments
 
-# Assignment 4
+## Assignment 4
 
 Find 5 (was 10) projects via [PyDigger](https://pydigger.com/) that have no author, not license, or no VCS. Add the missing information and send a pull-request. In the Pull-Request mention that you found the package missing this information via [PyDigger](https://pydigger.com/), that you are sending it as part of the [OSDC](https://osdc.code-maven.com/), and mention me as well: @szabgab
 
 * Dead-line: 2023.03.28 midnight.
 
+
+## Session 5
+
+Date: 2023.04.13 12:15-14:30
+
+* We need Better projects (e.g. projects you use at your work) we discussed what are GitHub organizations and what are repositories.
+
+* How to update a PR that was not accepted yet.
+    * We created a [new PR](https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli/pulls) via the Web interface of GitHub that failed the CI and the owner also commented on it.
+    * Then we found the fork and the branch in the fork and updated the file.
+    * It automatically updated the PR and started the CI again.
+
+* We discussed [this PR](https://github.com/iterative/dvc-data/pull/340) that needs a fix.
+
+* We discussed (in theory) how to handle a case when we plan to create a change for an open source project that might take us a month.
+    * How to avoid breakage caused by changes ceated on the main project that conflict with the change we make.
+    * The answer is that we cannot totally avoid those conflicts, but we can reduce their impact by communication and by frequently aligning our work with that of the main branch.
+    * I mentioned `rebase`. We will see it in action later.
+* We briefly discussed if people get paid for their open source work.
+
+* [Video 1](https://youtu.be/Im5vaQ6CJqo): Ran Moshe
+   * 00:00 Meetups
+   * 03:20 Meetup - Code Mavens
+   * 04:45 Meetup - PyWeb-IL
+   * 06:50 Find a better open source projects
+   * 09:00 Find a better open source projects - metacpan
+   * 15:40 Find a better open source projects - perl5-dbi
+   * 17:05 Find a better open source projects - forem
+   * 18:50 Find a better open source projects - psf/requests
+   * 20:55 requirements.txt file
+   * 28:20 dependabot.yml file
+   * 34:00 constraints.txt file
+   * 36:40 Find better open source projects - pyflakes
+   * 39:55 How to update a PR that was not accepted yet
+   * 44:20 How to update a PR that was not accepted yet - create a new PR
+
+* [Video 2](https://youtu.be/gzbDrmieM7k): Ran Moshe
+   * 00:00 How to update a PR that was not accepted yet - CI failed and the owner commented
+   * 03:00 How to update a PR that was not accepted yet - find fork and branch to update PR
+   * 05:50 How to update a PR that was not accepted yet - automatically updated the PR & started the CI again.
+   * 11:55 Explain for failed git push
+   * 17:00 How to avoid breakage caused by changes created on the main project by us - in organizations
+   * 22:05 How to avoid breakage caused by changes created on the main project by us - in open source project
+   * 34:20 rebase
+   * 43:00 Assignments
+   * 44:00 Assignments - projects in szabgab, OSDC-Code-Maven, Kantoniko and GitHub Topic
+   * 51:40 Do people get paid for their open source work
+   * 57:00 Previous and future assignments explained
+
+## Assignment 5
+
+* Fix the PRs that are problematic. (Where the CI failed or where the owner asked for an update)
+* Add better projects to your JSON (that are not ours)
+* Send more pull-requests, preferably not just for the `author` filed to make it more interesting and more challenging to you too.
+* Ideas for PR besides the one we discussed in the previous session:
+    * Makes sure the README (or CONTRIBUTION) file in a project has clear instructions how to set up the local development environment and how to run the tests locally. (pick a project that has no, or very few stars)
+    * If you can find any open source project with something you feel you can already fix, feel free to do that.
+    * Check out my projects in [szabgab](https://github.com/szabgab/) or [OSDC-Code-Maven](https://github.com/OSDC-Code-Maven/) or [Kantoniko](https://github.com/kantoniko/) Feel free to send a PR for them, or even just to discuss open issues.
+* In those new PRs, include a better explanation of why this change is useful. If you are not sure what to write, ask on our Slack.
+
+* Dead-line: TBD.
+
 ## Next:
 
-## Session 5 2023.04.13 12:15-14:30
+## Session 6 2023.04.20 12:15-14:30
+
+* Video 1: Doron Chapnitsky
+* Video 2: Doron Chapnitsky
 
 * Comments:
     * Send the deletition and addition in the same pull-request. Even better, in the same commit
@@ -332,14 +399,8 @@ Find 5 (was 10) projects via [PyDigger](https://pydigger.com/) that have no auth
 * Explain why linking and the anchors are important.
 * git-scm configure the default editor
 
+* Windows install (again), process of clone/fork/pull
 
-* Video 1: Ran Moshe
-* Video 2: Ran Moshe
-
-## Session 6 2023.04.20 12:15-14:30
-
-* Video 1: Doron Chapnitsky
-* Video 2: Doron Chapnitsky
 
 ## Session 7 2023.04.27 12:15-14:30
 
