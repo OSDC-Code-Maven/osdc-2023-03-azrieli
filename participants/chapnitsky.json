@@ -17,7 +17,10 @@
         },
         {
             "url": "https://dev.to/chapnitsky/contribution-to-github-python-repositories-42h2"
-        }     
+        },
+        {
+            "url": "https://dev.to/chapnitsky/my-latest-actions-2980"
+        }
     ],
     "projects":[
         "https://github.com/chapnitsky/bsc",
@@ -27,6 +30,7 @@
         "https://github.com/chapnitsky/Snake",
         "https://github.com/FredAdiv/Coursera_Capstone",
         "https://github.com/zoharasulin/City-Forest",
-        "https://github.com/huggingface/transformers"
+        "https://github.com/huggingface/transformers",
+        "https://github.com/kantoniko/ladino-diksionaryo-code"
     ]
 }
