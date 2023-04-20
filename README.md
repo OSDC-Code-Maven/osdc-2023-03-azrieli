@@ -386,21 +386,44 @@ Date: 2023.04.13 12:15-14:30
 
 * Dead-line: TBD.
 
-## Next:
 
 ## Session 6: Docker
 
 * Date: 2023.04.20 12:15-14:30
 
-* [Learning Linux in a Docker container](https://code-maven.com/slides/linux-docker/)
-* [Docker](https://code-maven.com/slides/docker/)
+* Languages the students mentioned: Python, Java, JavaScript, C#, Also https://openui5.org/ was mentioned.
 
-* Video 1: Doron Chapnitsky
-* Video 2: Doron Chapnitsky
+* Docker images:
+    * [Node JavaScript](https://hub.docker.com/_/node)
+    * [Python](https://hub.docker.com/_/python)
+    * [R-Base](https://hub.docker.com/_/r-base)
+    * [Java OpenJDK](https://hub.docker.com/_/openjdk)
+    * [Mono C#](https://hub.docker.com/_/mono)
+    * [Mono C#](https://hub.docker.com/r/esolang/csharp)
+    * [PHP](https://hub.docker.com/_/php)
 
+* We went over the slides of [Learning Linux in a Docker container](https://code-maven.com/slides/linux-docker/) up before the slide about CentOS.
+* Then we saw a few examples of [Open source project in Docker](https://code-maven.com/slides/docker/open-source)
+
+* [Source of all the slides](https://github.com/szabgab/slides)
+
+* [Video 1](https://youtu.be/0GAyyX1UaqQ): Doron Chapnitsky
+* [Video 2](https://youtu.be/4_A2K6oLV0s): Doron Chapnitsky
+
+
+## Assignment 6
+
+* Setup the local development environment of 5 open source projects - in your preferred programming language.
+    * They could taken from the ones where you already sent a PR with some other change that was already accepted.
+* Describe the steps and send a PR to add them to the slides: [Source of the Open Source examples](https://github.com/szabgab/slides/blob/main/docker/opensource.md)
+* Send PR to the project itself adding the same information to its README file.
+    * Think about the point of view of the developer of the project. Make the title and the explanation in the PR clear as why s/he would want to accept this.
+* Write a blog post describing your experience and what you learned.
+* Dead-line: 2023.04.30
+
+## Next:
 
 ## Session 7 2023.04.27 12:15-14:30
-
 
 * Comments:
     * Send the deletition and addition in the same pull-request. Even better, in the same commit
