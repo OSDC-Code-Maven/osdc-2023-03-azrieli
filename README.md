@@ -388,10 +388,19 @@ Date: 2023.04.13 12:15-14:30
 
 ## Next:
 
-## Session 6 2023.04.20 12:15-14:30
+## Session 6: Docker
+
+* Date: 2023.04.20 12:15-14:30
+
+* [Learning Linux in a Docker container](https://code-maven.com/slides/linux-docker/)
+* [Docker](https://code-maven.com/slides/docker/)
 
 * Video 1: Doron Chapnitsky
 * Video 2: Doron Chapnitsky
+
+
+## Session 7 2023.04.27 12:15-14:30
+
 
 * Comments:
     * Send the deletition and addition in the same pull-request. Even better, in the same commit
@@ -401,8 +410,6 @@ Date: 2023.04.13 12:15-14:30
 
 * Windows install (again), process of clone/fork/pull
 
-
-## Session 7 2023.04.27 12:15-14:30
 
 * Video 1:
 * Video 2:
