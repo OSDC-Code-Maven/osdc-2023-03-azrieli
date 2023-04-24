@@ -17,6 +17,8 @@
 * [Assignment 4](#assignment-4)
 * [Session 5](#session-5)
 * [Assignment 5](#assignment-5)
+* [Session 6: Docker](#session-6-docker)
+* [Assignment 6](#assignment-6)
 
 * [Next](#next)
 
@@ -418,7 +420,7 @@ Date: 2023.04.13 12:15-14:30
    * 38:00 root in Docker
    * 44:00 Common linux commands
    * 59:00 apt-get & nano & htop commands
-   
+
 * [Video 2](https://youtu.be/4_A2K6oLV0s): Doron Chapnitsky
    * 00:00 Python Flask container and running tests
    * 21:30 Coding languages containers
