@@ -408,8 +408,23 @@ Date: 2023.04.13 12:15-14:30
 * [Source of all the slides](https://github.com/szabgab/slides)
 
 * [Video 1](https://youtu.be/0GAyyX1UaqQ): Doron Chapnitsky
+   * 00:00 Coding language we use at work
+   * 03:00 Introduction to Docker
+   * 15:00 Linux distributions and structure
+   * 18:00 Docker installation
+   * 21:00 Docker image
+   * 29:00 docker run command
+   * 32:00 docker ps & docker rm commands
+   * 38:00 root in Docker
+   * 44:00 Common linux commands
+   * 59:00 apt-get & nano & htop commands
+   
 * [Video 2](https://youtu.be/4_A2K6oLV0s): Doron Chapnitsky
-
+   * 00:00 Python Flask container and running tests
+   * 21:30 Coding languages containers
+   * 28:00 More about Flask
+   * 31:00 Assignments
+   * 40:00 bridgeql repository example
 
 ## Assignment 6
 
