@@ -439,7 +439,6 @@ Date: 2023.04.13 12:15-14:30
 
 * Dead-line: 2023.05.02
 
-## Next:
 
 ## Session 7: Docker, part 2
 
@@ -449,11 +448,21 @@ Date: 2023.04.27 12:15-14:30
 * Explain what you learned from the lecture, from the assignments, and from the way the project owners responded to your PRs.
 * Inlcude links to the issues you opened, the pull-requests you sent.
 * Follow-up on the issues and pull-requests if the owner asks for an updates. We already learned *how* to update a PR.
-* Use Makrdown to add titles to the links so they won't be just URLs pasted.
+* Use Markdown to add titles to the links so they won't be just URLs pasted.
+* See for example [TD](https://dev.to/tdaw)  (OSD700)
+* [blog posts](https://osdc.code-maven.com/blogs)
+
+* [GitHub + DEV Hackathon](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
 
 
-* Video 1:
-* Video 2:
+* Video 1: Freddy
+* Video 2: Freddy
+
+## Assignment 7
+
+TBD.
+
+## Next:
 
 ## Session 8 2023.05.04 12:15-14:30
 
