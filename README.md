@@ -386,7 +386,7 @@ Date: 2023.04.13 12:15-14:30
     * Check out my projects in [szabgab](https://github.com/szabgab/) or [OSDC-Code-Maven](https://github.com/OSDC-Code-Maven/) or [Kantoniko](https://github.com/kantoniko/) Feel free to send a PR for them, or even just to discuss open issues.
 * In those new PRs, include a better explanation of why this change is useful. If you are not sure what to write, ask on our Slack.
 
-* Dead-line: TBD.
+* Dead-line: 2023.04.30
 
 
 ## Session 6: Docker
@@ -436,7 +436,8 @@ Date: 2023.04.13 12:15-14:30
 * Send PR to the project itself adding the same information to its README file.
     * Think about the point of view of the developer of the project. Make the title and the explanation in the PR clear as why s/he would want to accept this.
 * Write a blog post describing your experience and what you learned.
-* Dead-line: 2023.04.30
+
+* Dead-line: 2023.05.02
 
 ## Next:
 
