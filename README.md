@@ -441,21 +441,24 @@ Date: 2023.04.13 12:15-14:30
 
 ## Next:
 
-## Session 7 2023.04.27 12:15-14:30
+## Session 7: Docker, part 2
 
-* Comments:
-    * Send the deletition and addition in the same pull-request. Even better, in the same commit
-    * There were conflicts as the same person changed subsequent lines in separate changes.
-* Explain why linking and the anchors are important.
-* git-scm configure the default editor
+Date: 2023.04.27 12:15-14:30
 
-* Windows install (again), process of clone/fork/pull
+* Write blog posts that have actual text that a random person can read, not just a bunch of links.
+* Explain what you learned from the lecture, from the assignments, and from the way the project owners responded to your PRs.
+* Inlcude links to the issues you opened, the pull-requests you sent.
+* Follow-up on the issues and pull-requests if the owner asks for an updates. We already learned *how* to update a PR.
+* Use Makrdown to add titles to the links so they won't be just URLs pasted.
 
 
 * Video 1:
 * Video 2:
 
 ## Session 8 2023.05.04 12:15-14:30
+
+* git-scm configure the default editor
+* Windows install (again), process of clone/fork/pull
 
 * Video 1:
 * Video 2:
