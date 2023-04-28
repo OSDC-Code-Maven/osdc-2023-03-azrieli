@@ -467,6 +467,8 @@ TBD.
 
 ## Session 8 2023.05.04 12:15-14:30
 
+* [VS Code and Docke](https://code.visualstudio.com/docs/devcontainers/containers)
+
 * git-scm configure the default editor
 * Windows install (again), process of clone/fork/pull
 
