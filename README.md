@@ -454,6 +454,7 @@ Date: 2023.04.27 12:15-14:30
 
 * [GitHub + DEV Hackathon](https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn)
 
+* [tomlkit](https://github.com/sdispater/tomlkit)
 
 * [Video 1](https://youtu.be/CPpneLuU4aA): Freddy
 * [Video 2](https://youtu.be/TrnTCjYKWIs): Freddy
