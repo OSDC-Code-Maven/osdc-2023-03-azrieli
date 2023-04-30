@@ -457,7 +457,22 @@ Date: 2023.04.27 12:15-14:30
 * [tomlkit](https://github.com/sdispater/tomlkit)
 
 * [Video 1](https://youtu.be/CPpneLuU4aA): Freddy
+   * 00:00 Docker with CentOS
+   * 22:13 Instakking CentOS packages
+   * 30:35 Bash Configuration
+   * 31:16 Adding and changing users
+   * 40:40 Which commnand
+   * 49:40 Grep command
+   * 01:01:10 Find
+   * 01:02:15 Manual pages
+   * 01:03:30 Pipelines
+
 * [Video 2](https://youtu.be/TrnTCjYKWIs): Freddy
+   * 00:00 Pipelines continued
+   * 15:38 Creating container for Python's tomlkit
+   * 28:10 Running tests
+   * 41:30 Creating image from container
+
 
 ## Assignment 7
 
