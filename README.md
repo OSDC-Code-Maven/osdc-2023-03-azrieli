@@ -484,6 +484,8 @@ TBD.
 
 * [VS Code and Docke](https://code.visualstudio.com/docs/devcontainers/containers)
 
+* Java Project example
+
 * git-scm configure the default editor
 * Windows install (again), process of clone/fork/pull
 
