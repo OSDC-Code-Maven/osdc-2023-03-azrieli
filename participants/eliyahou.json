@@ -15,7 +15,11 @@
         },
         {
             "url": "https://dev.to/eliyahou/4-follows-github-project-and-fixing-lacks-4pe3"
+        },
+        {
+            "url": "https://dev.to/eliyahou/docker-images-31dj"
         }
+        
     ],
     "projects": [
         "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
