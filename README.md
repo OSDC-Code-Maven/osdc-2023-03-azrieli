@@ -246,9 +246,9 @@ git commit -m "add more content"
 git push
 ```
 
-* [Video 1](https://youtu.be/s4N0CGTP-GA): Ran Moshe
+* [Video 3-1](https://youtu.be/s4N0CGTP-GA): Ran Moshe
    * 00:00 Windows - Oracle VM VirtualeBox
-   * 07:40 Back to local linux PC 
+   * 07:40 Back to local linux PC
    * 07:50 Create repository for Github pages site (on Github)
    * 09:11 Clone for create repository localy (on PC)
    * 13:00 Download and install the git client from git-scm
@@ -299,7 +299,7 @@ Date: 2023.03.30 13:30-14:30
 
 * I mentioned the recommended books listed at the bottom of the OSDC main page. Especially I mentioned the one I am reading now [Uncurled by Daniel Stenberg, author of curl](https://un.curl.dev/).
 
-* [Video 1](https://youtu.be/xIP13AK4usI): Ran Moshe
+* [Video 4-1](https://youtu.be/xIP13AK4usI): Ran Moshe
    * 00:00 PyDigger and pypi.org (Introduction)
    * 03:00 last updates of pypi (show in CLI- use grep & ack to get the relevant url) 
    * 04:45 PyDigger-Statistics
@@ -319,6 +319,8 @@ Date: 2023.03.30 13:30-14:30
    * 46:10 open source initiative
    * 51:00 searchkit (example-no VCS)
    * 55:15 Assignments
+
+
 
 ## Assignment 4
 
@@ -346,7 +348,7 @@ Date: 2023.04.13 12:15-14:30
     * I mentioned `rebase`. We will see it in action later.
 * We briefly discussed if people get paid for their open source work.
 
-* [Video 1](https://youtu.be/Im5vaQ6CJqo): Ran Moshe
+* [Video 5-1](https://youtu.be/Im5vaQ6CJqo): Ran Moshe
    * 00:00 Meetups
    * 03:20 Meetup - Code Mavens
    * 04:45 Meetup - PyWeb-IL
@@ -362,7 +364,7 @@ Date: 2023.04.13 12:15-14:30
    * 39:55 How to update a PR that was not accepted yet
    * 44:20 How to update a PR that was not accepted yet - create a new PR
 
-* [Video 2](https://youtu.be/gzbDrmieM7k): Ran Moshe
+* [Video 5-2](https://youtu.be/gzbDrmieM7k): Ran Moshe
    * 00:00 How to update a PR that was not accepted yet - CI failed and the owner commented
    * 03:00 How to update a PR that was not accepted yet - find fork and branch to update PR
    * 05:50 How to update a PR that was not accepted yet - automatically updated the PR & started the CI again.
@@ -409,7 +411,7 @@ Date: 2023.04.13 12:15-14:30
 
 * [Source of all the slides](https://github.com/szabgab/slides)
 
-* [Video 1](https://youtu.be/0GAyyX1UaqQ): Doron Chapnitsky
+* [Video 6-1](https://youtu.be/0GAyyX1UaqQ): Doron Chapnitsky
    * 00:00 Coding language we use at work
    * 03:00 Introduction to Docker
    * 15:00 Linux distributions and structure
@@ -421,12 +423,14 @@ Date: 2023.04.13 12:15-14:30
    * 44:00 Common linux commands
    * 59:00 apt-get & nano & htop commands
 
-* [Video 2](https://youtu.be/4_A2K6oLV0s): Doron Chapnitsky
+* [Video 6-2](https://youtu.be/4_A2K6oLV0s): Doron Chapnitsky
    * 00:00 Python Flask container and running tests
    * 21:30 Coding languages containers
    * 28:00 More about Flask
    * 31:00 Assignments
    * 40:00 bridgeql repository example
+
+
 
 ## Assignment 6
 
@@ -456,7 +460,7 @@ Date: 2023.04.27 12:15-14:30
 
 * [tomlkit](https://github.com/sdispater/tomlkit)
 
-* [Video 1](https://youtu.be/CPpneLuU4aA): Freddy
+* [Video 7-1](https://youtu.be/CPpneLuU4aA): Freddy
    * 00:00 Docker with CentOS
    * 22:13 Instakking CentOS packages
    * 30:35 Bash Configuration
@@ -467,7 +471,7 @@ Date: 2023.04.27 12:15-14:30
    * 01:02:15 Manual pages
    * 01:03:30 Pipelines
 
-* [Video 2](https://youtu.be/TrnTCjYKWIs): Freddy
+* [Video 7-2](https://youtu.be/TrnTCjYKWIs): Freddy
    * 00:00 Pipelines continued
    * 15:38 Creating container for Python's tomlkit
    * 28:10 Running tests
@@ -478,42 +482,63 @@ Date: 2023.04.27 12:15-14:30
 
 TBD.
 
-## Next:
+Videos so far:
+    Yael Levi        1
+    Eliyahou Levi    1
+    Freddy Adiv      2277
+    Ran Moshe        3455
+    Doron Chapnitsky 66
 
-## Session 8 2023.05.04 12:15-14:30
+## Session 8: git-scm on Windows, GitHub contribution workflow
 
-* [VS Code and Docke](https://code.visualstudio.com/docs/devcontainers/containers)
-
-* Java Project example
+Date: 2023.05.04 12:15-14:30
 
 * git-scm configure the default editor
 * Windows install (again), process of clone/fork/pull
 
-* Video 1:
-* Video 2:
+
+* Video 8-1:
+* Video 8-2:
+
+## Assignment 8
+
+* Take one of the following projects, set up the local development enevironment, work on one of the issues, send a PR
+    * https://osdc.code-maven.com/
+    * https://osdc.code-maven.com/open-source-by-organizations/
+    * https://kantoniko.com/
+    * https://pydigger.com/
+    * https://cpan-digger.perlmaven.com/
+    * https://ruby-digger.code-maven.com/
+
+
+## Next:
 
 ## Session 9 2023.05.11 12:15-14:30
 
-* Video 1:
-* Video 2:
+* [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
+* Java Project example
+
+
+* Video 9-1:
+* Video 9-2:
 
 ## Session 10 2023.06.01 12:15-14:30
 
-* Video 1:
-* Video 2:
+* Video 10-1:
+* Video 10-2:
 
 ## Session 11 2023.06.08 12:15-14:30
 
-* Video 1:
-* Video 2:
+* Video 11-1:
+* Video 11-2:
 
 ## Session 12 2023.06.15 12:15-14:30
 
-* Video 1:
-* Video 2:
+* Video 12-1:
+* Video 12-2:
 
 ## Session 13 2023.06.22 12:15-14:30
 
-* Video 1:
-* Video 2:
+* Video 13-1:
+* Video 13-2:
 
