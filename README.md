@@ -488,6 +488,7 @@ Date: 2023.05.04 12:15-14:30
 
 * git-scm configure the default editor
 * Windows install (again), process of clone/fork/pull
+* [workflows](https://code-maven.com/slides/git/collection-of-git-workflows)
 
 * git-scm
 * ~/.gitconfig      global config
@@ -508,7 +509,7 @@ git commit
 ```
 git clone
 git checkout -b branch-name
-git add 
+git add
 git commit
 git push
 
