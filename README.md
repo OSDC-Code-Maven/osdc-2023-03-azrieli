@@ -482,13 +482,6 @@ Date: 2023.04.27 12:15-14:30
 
 TBD.
 
-Videos so far:
-    Yael Levi        1
-    Eliyahou Levi    1
-    Freddy Adiv      2277
-    Ran Moshe        3455
-    Doron Chapnitsky 66
-
 ## Session 8: git-scm on Windows, GitHub contribution workflow
 
 Date: 2023.05.04 12:15-14:30
@@ -496,14 +489,35 @@ Date: 2023.05.04 12:15-14:30
 * git-scm configure the default editor
 * Windows install (again), process of clone/fork/pull
 
+* git-scm
+* ~/.gitconfig      global config
+* .git/config       config for each repository
+
+* ssh-keygen
+* ls -l ~/.ssh/
+* cat ~/.ssh/id_ras.pub
+
+```
+git init
+git add
+git commit
+```
+
+* Create repo in GitHub and follow the instructions there to push out the repository
 
 ```
 git clone
 git checkout -b branch-name
+git add 
 git commit
 git push
 
-git rebase
+
+git checkout main
+git pull origin main
+git checkout branch-name
+git rebase main
+git push --force
 ```
 
 
@@ -519,6 +533,13 @@ git rebase
     * https://pydigger.com/
     * https://cpan-digger.perlmaven.com/
     * https://ruby-digger.code-maven.com/
+
+Videos so far:
+    Yael Levi        18
+    Eliyahou Levi    18
+    Freddy Adiv      2277
+    Ran Moshe        3455
+    Doron Chapnitsky 66
 
 
 ## Next:
