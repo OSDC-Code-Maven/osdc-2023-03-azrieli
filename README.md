@@ -522,8 +522,8 @@ git push --force
 ```
 
 
-* Video 8-1: Yael
-* Video 8-2: Eliyahou
+* [Video 8-1](https://youtu.be/aheLynn8QI8): Yael
+* [Video 8-2](https://youtu.be/Opa8_QL3GV0): Eliyahou
 
 ## Assignment 8
 
