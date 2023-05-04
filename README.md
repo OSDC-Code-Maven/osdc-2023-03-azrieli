@@ -507,8 +507,8 @@ git rebase
 ```
 
 
-* Video 8-1:
-* Video 8-2:
+* Video 8-1: Yael
+* Video 8-2: Eliyahou
 
 ## Assignment 8
 
