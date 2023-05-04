@@ -497,6 +497,16 @@ Date: 2023.05.04 12:15-14:30
 * Windows install (again), process of clone/fork/pull
 
 
+```
+git clone
+git checkout -b branch-name
+git commit
+git push
+
+git rebase
+```
+
+
 * Video 8-1:
 * Video 8-2:
 
