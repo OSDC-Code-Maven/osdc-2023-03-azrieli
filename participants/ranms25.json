@@ -21,7 +21,11 @@
         },
         {
             "url": "https://dev.to/ranms25/osdc-2023-assignment6-43be"
+        },
+	{
+            "url": "https://dev.to/ranms25/osdc-2023-assignment7-401c"
         }
+
     ],
     "projects": [
         "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
