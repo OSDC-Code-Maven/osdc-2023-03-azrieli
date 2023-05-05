@@ -521,6 +521,22 @@ git rebase main
 git push --force
 ```
 
+A few notes for he lecture yesterday:
+
+For each thing you change create a separate branch from the default branch (usually "master" or "main").
+So for example yesterday Ran Moshe found out that the generate command in the [README](https://github.com/OSDC-Code-Maven/open-source-by-organizations) does not work.
+First of all Ran, you should have opened the two issues right away
+
+1. with the error message for this command `python generate.py github/bioinform.yaml github/calgaryml.yaml` failing
+2. that the python generate.py` is failing that you already opened since then: https://github.com/OSDC-Code-Maven/open-source-by-organizations/issues/79
+
+Then when fixing you create a branch and sent a [PR to fix the first issue](https://github.com/OSDC-Code-Maven/open-source-by-organizations/pull/80) and I have accepted it.
+Already before I accepted it you could go back to the "main" branch and create a new branch for some other changes you might want to make.
+
+Now that I've already accepted the PR, you can update your main branch from my main branch (as I showed yesterday) and then
+1. start your new branch from there.
+1. if you already have a branch that you started from main you can rebase that branch to "main" and be up to date (as we saw yesterday)
+
 
 * [Video 8-1](https://youtu.be/aheLynn8QI8): Yael
 * [Video 8-2](https://youtu.be/Opa8_QL3GV0): Eliyahou
