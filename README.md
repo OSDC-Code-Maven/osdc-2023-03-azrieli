@@ -539,6 +539,27 @@ Now that I've already accepted the PR, you can update your main branch from my m
 
 
 * [Video 8-1](https://youtu.be/aheLynn8QI8): Yael
+* 00:00 Topics we will talk about
+* 04:35 git client installation(git-scm)
+* 12:20 bash window basic commands
+* 15:54 create new file
+* 17:35 find command
+* 20:00 edit file with vim
+* 21:04 create project
+* 21:45 readme file
+* 23:29 git init
+* 24:25 git add
+* 25:00 identification user config
+* 28:58 commit Author
+* 32:26 configuration commands
+* 35:00 git commit add README
+* 36:54 github create new repository
+* 38:46 git remote add
+* 44:16 git branch main 
+* 45:16 public key
+* 50:00 push
+* 53:00 repository permissions
+* 54:30 git push -u
 * [Video 8-2](https://youtu.be/Opa8_QL3GV0): Eliyahou
 
 ## Assignment 8
