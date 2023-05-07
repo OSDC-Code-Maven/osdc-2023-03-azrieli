@@ -561,6 +561,26 @@ Now that I've already accepted the PR, you can update your main branch from my m
 * 53:00 repository permissions
 * 54:30 git push -u
 * [Video 8-2](https://youtu.be/Opa8_QL3GV0): Eliyahou
+* 00:00 delete repository
+* 03:20 git clone
+* 08:05 create new branch
+* 09:50 create new file
+* 10:58 git add
+* 12:00 git log
+* 13:25 create fork
+* 15:15 git push
+* 19:00 merge
+* 20:34 send PR
+* 22:30 fix PR
+* 25:32 update readme file
+* 28:56 rebase / merge
+* 36:34 reset
+* 37:28 push rejected
+* 39:31 force push
+* 43:42 merge
+* 46:10 delete last commit
+* 47:37 rebase benefits
+* 51:30 Assignment
 
 ## Assignment 8
 
