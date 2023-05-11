@@ -610,6 +610,11 @@ Date: 2023.05.11 12:15-14:30
 * Video 9-1: Doron
 * Video 9-2: Doron
 
+## Assignment 9
+
+Find a project that has some tests but does not have any type of continuous integration. Set up GitHub Action to run the tests.
+Before you send the PR to the project owner show the results to @szabgab.
+
 ## Next:
 
 Videos so far:
