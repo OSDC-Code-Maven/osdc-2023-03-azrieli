@@ -23,6 +23,9 @@
         },
         {
             "url": "https://dev.to/chapnitsky/loading-repositories-to-docker-and-testing-them-1p56"
+        },
+        {
+            "url": "https://dev.to/chapnitsky/git-bash-commands-dga"
         }
     ],
     "projects":[
@@ -34,6 +37,7 @@
         "https://github.com/FredAdiv/Coursera_Capstone",
         "https://github.com/zoharasulin/City-Forest",
         "https://github.com/huggingface/transformers",
-        "https://github.com/kantoniko/ladino-diksionaryo-code"
+        "https://github.com/kantoniko/ladino-diksionaryo-code",
+        "https://github.com/kantoniko/ladino-pages"
     ]
 }
