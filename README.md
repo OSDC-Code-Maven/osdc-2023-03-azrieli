@@ -607,8 +607,8 @@ Date: 2023.05.11 12:15-14:30
 * [Video: GitHub Actions to generate complex static web](https://workshops.code-maven.com/github-actions-to-generate-complex-static-web-sites)
 * [Video: GitHub REST AP and GraphQL API](https://workshops.code-maven.com/github-rest-api-and-graphql-api)
 
-* Video 9-1: Doron
-* Video 9-2: Doron
+* [Video 9-1](https://youtu.be/7ulEqu7Rr8I): Doron
+* [Video 9-2](https://youtu.be/PtnGFykK8jc): Doron
 
 ## Assignment 9
 
