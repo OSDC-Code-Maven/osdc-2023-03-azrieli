@@ -607,8 +607,24 @@ Date: 2023.05.11 12:15-14:30
 * [Video: GitHub Actions to generate complex static web](https://workshops.code-maven.com/github-actions-to-generate-complex-static-web-sites)
 * [Video: GitHub REST AP and GraphQL API](https://workshops.code-maven.com/github-rest-api-and-graphql-api)
 
-* [Video 9-1](https://youtu.be/7ulEqu7Rr8I): Doron
-* [Video 9-2](https://youtu.be/PtnGFykK8jc): Doron
+* [Video 9-1](https://youtu.be/7ulEqu7Rr8I): Doron Chapnitsky
+  * 00:00 Introduction to CI
+  * 07:00 Introduction to Github Actions
+  * 14:00 Simple workflow example and implementation
+  * 35:00 Ubuntu, macOS and Windows examples
+  * 38:30 Triggering jobs
+  * 44:00 Github environment variables
+  * 48:00 Github actions repositories
+  * 55:00 Github matrix strategy
+ 
+* [Video 9-2](https://youtu.be/PtnGFykK8jc): Doron Chapnitsky
+  * 00:00 Github matrix strategy recap
+  * 03:20 How to use Github environment variables and conditions
+  * 17:00 Github Actions collection
+  * 18:20 Linux commands with Github Actions
+  * 22:30 Github actions artifact
+  * 27:00 Github actions services and DB
+  * 49:50 Home assignment - create CI for a repository
 
 ## Assignment 9
 

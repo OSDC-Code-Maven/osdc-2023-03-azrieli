@@ -26,6 +26,9 @@
         },
         {
             "url": "https://dev.to/chapnitsky/git-bash-commands-dga"
+        },
+        {
+            "url": "https://dev.to/chapnitsky/github-actions-are-awesome-1i7p"
         }
     ],
     "projects":[
@@ -38,6 +41,7 @@
         "https://github.com/zoharasulin/City-Forest",
         "https://github.com/huggingface/transformers",
         "https://github.com/kantoniko/ladino-diksionaryo-code",
-        "https://github.com/kantoniko/ladino-pages"
+        "https://github.com/kantoniko/ladino-pages",
+        "https://github.com/chapnitsky/pymx2"
     ]
 }
