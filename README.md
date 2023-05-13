@@ -592,26 +592,45 @@ Now that I've already accepted the PR, you can update your main branch from my m
     * https://cpan-digger.perlmaven.com/
     * https://ruby-digger.code-maven.com/
 
+## Session 9: GitHub Actions
+
+Date: 2023.05.11 12:15-14:30
+
+* [slides: Continuous Integration for GitHub projects](https://code-maven.com/slides/github-ci/)
+* [Collection of official GitHub Actions](https://github.com/actions)
+
+* [GitHub Action to generate the site of the course](https://github.com/osdc-code-maven/osdc-site-generator)
+* [GitHub Actions examples](https://code-maven.com/github-actions)
+* [GitHub action for Perl library to access Postgres](https://github.com/bucardo/dbdpg/pull/115/files)
+* [Pydigger has GitHub but no CI](https://pydigger.com/search/has-github-no-ci)
+* [capturecli, simple python project with CI](https://github.com/szabgab/capturecli)
+* [Video: GitHub Actions to generate complex static web](https://workshops.code-maven.com/github-actions-to-generate-complex-static-web-sites)
+* [Video: GitHub REST AP and GraphQL API](https://workshops.code-maven.com/github-rest-api-and-graphql-api)
+
+* [Video 9-1](https://youtu.be/7ulEqu7Rr8I): Doron
+* [Video 9-2](https://youtu.be/PtnGFykK8jc): Doron
+
+## Assignment 9
+
+Find a project that has some tests but does not have any type of continuous integration. Set up GitHub Action to run the tests.
+Before you send the PR to the project owner show the results to @szabgab.
+
+## Next:
+
 Videos so far:
     Yael Levi        18
     Eliyahou Levi    18
     Freddy Adiv      2277
     Ran Moshe        3455
-    Doron Chapnitsky 66
+    Doron Chapnitsky 6699
 
 
-## Next:
-
-## Session 9 2023.05.11 12:15-14:30
+## Session 10 2023.06.01 12:15-14:30
 
 * [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
 * Java Project example
 
 
-* Video 9-1:
-* Video 9-2:
-
-## Session 10 2023.06.01 12:15-14:30
 
 * Video 10-1:
 * Video 10-2:
