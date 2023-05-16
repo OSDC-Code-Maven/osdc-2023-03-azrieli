@@ -22,8 +22,10 @@
         },
         {
             "url": "https://dev.to/fredadiv/harnessing-the-power-of-dockers-with-python-projects-3nn9"
-        }
-        
+        },
+        {
+            "url": "https://dev.to/fredadiv/useful-command-in-git-and-dockers-99"
+        }      
     ],
     "projects": [
         "https://github.com/FredAdiv/Coursera_Capstone",
