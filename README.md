@@ -19,6 +19,9 @@
 * [Assignment 5](#assignment-5)
 * [Session 6: Docker](#session-6-docker)
 * [Assignment 6](#assignment-6)
+* [Session 7: Docker, part 2](#session-7-docker-part-2)
+* [Session 8: git-scm on Windows, GitHub contribution workflow](#session-8-git-scm-on-windows-github-contribution-workflow)
+* [Session 9: GitHub Actions](#session-9-github-actions)
 
 * [Next](#next)
 
@@ -555,7 +558,7 @@ Now that I've already accepted the PR, you can update your main branch from my m
 * 35:00 git commit add README
 * 36:54 github create new repository
 * 38:46 git remote add
-* 44:16 git branch main 
+* 44:16 git branch main
 * 45:16 public key
 * 50:00 push
 * 53:00 repository permissions
@@ -631,27 +634,39 @@ Date: 2023.05.11 12:15-14:30
 Find a project that has some tests but does not have any type of continuous integration. Set up GitHub Action to run the tests.
 Before you send the PR to the project owner show the results to @szabgab.
 
-## Next:
+## Session 10: Dockerfile; Playground; GitHub Actions for Java, Open Source
 
-## Session 10 2023.06.01 12:15-14:30
+Date: 2023.06.01 12:15-14:30
 
-* GitHub Action for Java Projects
-    * [Explore projects](https://github.com/explore)
-    * [guava](https://github.com/google/guava)
-    * [RxJava](https://github.com/ReactiveX/RxJava)
-    * [okhttp](https://github.com/square/okhttp)
-
+* [OSDC Site generator](https://github.com/OSDC-Code-Maven/osdc-site-generator)
 * Earlier we saw how to run a docker container, install things and then build a Docker image
 * Today we'll see how to build a Docker image using Dockerfile https://code-maven.com/slides/docker/docker-empty-ubuntu
-* Then we'll see the [Playground](https://github.com/szabgab/playground) docker image
+* [Creating a file on a mounted volume in Docker as the external user (and not as root)](https://code-maven.com/creating-file-in-docker-as-the-external-user)
+* [Dockerfile of OSDC Site Generator](https://github.com/OSDC-Code-Maven/osdc-site-generator/blob/v1/Dockerfile)
 * Then how the [CPAN Digger](https://cpan-digger.perlmaven.com/) project uses a Docker image
+* Then we'll see the [Playground](https://github.com/szabgab/playground) docker image
+* GitHub Action for Java Projects
+    * [Explore projects](https://github.com/explore)
+    * [Java](https://github.com/topics/java?l=java)
+    * We looked at this [guava](https://github.com/google/guava)
+    * [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action)
+    * [setup-java action](https://github.com/actions/setup-java)
+
+
+* Briefly: why companies and people write open source and Quality of open source code: Test coverage on [CPAN Digger](https://cpan-digger.perlmaven.com/recent).
+
+* [Video 10-1](https://youtu.be/GdXP0uSRK4Y): Zohar Asulin
+* [Video 10-2](https://youtu.be/pgWTk2jejM4): Zohar Asulin
+
+## Next:
+
+## Session 11 2023.06.08 12:15-14:30
+
+
 * Then we look at [docker-compose](https://code-maven.com/slides/docker/docker-compose)
 * Then see how [PyDigger](https://pydigger.com/) is using it.
 
-* Video 10-1: Zohar Asulin
-* Video 10-2: Zohar Asulin
 
-## Session 11 2023.06.08 12:15-14:30
 
 * Video 11-1: Zohar Asulin
 * Video 11-2: Zohar Asulin
