@@ -462,7 +462,7 @@ Date: 2023.04.27 12:15-14:30
 
 * [Video 7-1](https://youtu.be/CPpneLuU4aA): Freddy
    * 00:00 Docker with CentOS
-   * 22:13 Instakking CentOS packages
+   * 22:13 Installing CentOS packages
    * 30:35 Bash Configuration
    * 31:16 Adding and changing users
    * 40:40 Which commnand
@@ -616,7 +616,7 @@ Date: 2023.05.11 12:15-14:30
   * 44:00 Github environment variables
   * 48:00 Github actions repositories
   * 55:00 Github matrix strategy
- 
+
 * [Video 9-2](https://youtu.be/PtnGFykK8jc): Doron Chapnitsky
   * 00:00 Github matrix strategy recap
   * 03:20 How to use Github environment variables and conditions
@@ -634,6 +634,13 @@ Before you send the PR to the project owner show the results to @szabgab.
 ## Next:
 
 ## Session 10 2023.06.01 12:15-14:30
+
+* Earlier we saw how to run a docker container, install things and then build a Docker image
+* Today we'll see how to build a Docker image using Dockerfile https://code-maven.com/slides/docker/docker-empty-ubuntu
+* Then we'll see the [Playground](https://github.com/szabgab/playground) docker image
+* Then how the [CPAN Digger](https://cpan-digger.perlmaven.com/) project uses a Docker image
+* Then we look at [docker-compose](https://code-maven.com/slides/docker/docker-compose)
+* Then see how [PyDigger](https://pydigger.com/) is using it.
 
 * Video 10-1: Zohar Asulin
 * Video 10-2: Zohar Asulin
