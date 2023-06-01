@@ -633,28 +633,23 @@ Before you send the PR to the project owner show the results to @szabgab.
 
 ## Next:
 
+## Session 10 2023.06.01 12:15-14:30
+
+* Video 10-1: Zohar Asulin
+* Video 10-2: Zohar Asulin
+
+## Session 11 2023.06.08 12:15-14:30
+
+* Video 11-1: Zohar Asulin
+* Video 11-2: Zohar Asulin
+
 Videos so far:
     Yael Levi        18
     Eliyahou Levi    18
     Freddy Adiv      2277
     Ran Moshe        3455
     Doron Chapnitsky 6699
-
-
-## Session 10 2023.06.01 12:15-14:30
-
-* [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
-* Java Project example
-
-
-
-* Video 10-1:Zohar Asulin 
-* Video 10-2:Zohar Asulin
-
-## Session 11 2023.06.08 12:15-14:30
-
-* Video 11-1:Zohar Asulin
-* Video 11-2:Zohar Asulin
+    Zohar Asulin     AABB
 
 ## Session 12 2023.06.15 12:15-14:30
 
@@ -665,4 +660,8 @@ Videos so far:
 
 * Video 13-1:
 * Video 13-2:
+
+* [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
+* Java Project example
+
 
