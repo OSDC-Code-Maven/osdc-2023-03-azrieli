@@ -635,6 +635,12 @@ Before you send the PR to the project owner show the results to @szabgab.
 
 ## Session 10 2023.06.01 12:15-14:30
 
+* GitHub Action for Java Projects
+    * [Explore projects](https://github.com/explore)
+    * [guava](https://github.com/google/guava)
+    * [RxJava](https://github.com/ReactiveX/RxJava)
+    * [okhttp](https://github.com/square/okhttp)
+
 * Earlier we saw how to run a docker container, install things and then build a Docker image
 * Today we'll see how to build a Docker image using Dockerfile https://code-maven.com/slides/docker/docker-empty-ubuntu
 * Then we'll see the [Playground](https://github.com/szabgab/playground) docker image
@@ -669,6 +675,4 @@ Videos so far:
 * Video 13-2:
 
 * [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
-* Java Project example
-
 
