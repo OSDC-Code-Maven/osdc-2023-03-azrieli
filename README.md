@@ -656,8 +656,29 @@ Date: 2023.06.01 12:15-14:30
 * Briefly: why companies and people write open source and Quality of open source code: Test coverage on [CPAN Digger](https://cpan-digger.perlmaven.com/recent).
 
 * [Video 10-1](https://youtu.be/GdXP0uSRK4Y): Zohar Asulin
+   * 00:00 convert Markdown to html 
+   * 04:26 GITHUB ACTION
+   * 8:55 Dockerfile 
+   * 10:24 build a Docker image using Dockerfile
+   * 21:29 CMD  echo HELLO WORLD
+   * 29:19 ubuntu htop
+   * 36:29 docker copy file to img
+   * 45:20 copy file from stopped container
+   * 47:52 Docker curl
+   * 49:33 add ENTRYPOINT to Dockerfile
+   * 51:44 ENTRYPOINT vs. CMD
+ 
 * [Video 10-2](https://youtu.be/pgWTk2jejM4): Zohar Asulin
-
+   * 00:00 Docker and variable environment
+   * 00:40 Docker with crontab
+   * 12:06 Creating a file on a mounted volume in Docker as the external user
+   * 16:04 Dockerfile of OSDC Site Generator
+   * 25:28 CPAN Digger
+   * 26:53 Playground docker image
+   * 41:50 GitHub Action for Java Projects
+   * 58:17  motivation of projects open source code
+   * 01:06:05 CPAN Digger test average
+   
 ## Next:
 
 ## Session 11 2023.06.08 12:15-14:30
