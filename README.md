@@ -690,7 +690,47 @@ Date: 2023.06.01 12:15-14:30
 
 
 * [Video 11-1](https://youtu.be/X3LMTayDRUM): Zohar Asulin
+   *  00:00 testing with pytest
+   * 05:27 test methods
+   * 06:37 testinng demo tools in python
+   * 08:13 AUT-application under test
+   * 10:30 Regression test
+   * 13:07 doctest
+   * 26:14 unittest
+   * 30:50 pytest
+   * 45:46 and unittest pytest run  doctest
+   * 46:25 test coverage
+   * 54:13 pytest setup
+   * 55:37 examples test
+
+
 * [Video 11-2](https://youtu.be/vB172bgPoxc): Zohar Asulin
+   * 00:00 pytest expected exception
+   * 06:37 pytest change text
+   * 07:37 pytest missing exception
+   * 08:14 exception raised
+   * 10:20 exercise-test exceptions
+   * 10:57 multiple failures
+   * 12:30 selective running of test functions
+   * 13:24 stop on first failure
+   * 15:55 expect a test to fail
+   * 23:15 –rx
+   * 24:17 skip test
+   * 27:37 –rs skip test
+   * 28:15 show extra test –r
+   * 28:30 verbose mode
+   * 28:39 quiet mode
+   * 28:49 STDOUT STDERR
+   * 31:30 using classes
+   * 32:06 module Home assignment - create test for open source project
+   * 34:32 Travis CI
+   * 35:06 pytest.mark.parametrize
+   * 43:13 testing flask
+   * 44:15 Anagram in CMD
+   * 48:44 examples function test
+   * 50:35 Fixtures
+   * 1:00:12 Home assignment
+
 
 ## Assignment 11
 
