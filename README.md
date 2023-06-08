@@ -680,19 +680,17 @@ Date: 2023.06.01 12:15-14:30
    * 58:17  motivation of projects open source code
    * 01:06:05 CPAN Digger test average
 
-## Next:
 
-## Session 11 2023.06.08 12:15-14:30
+## Session 11: Testing with PyTest
 
+* Date: 2023.06.08 12:15-14:30
+
+* [Testing Demo](https://code-maven.com/slides/python/testing-demo)
 * [Testing Python with pytest](https://code-maven.com/slides/python/pytest)
 
 
-* [docker-compose](https://code-maven.com/slides/docker/docker-compose)
-* [PyDigger](https://pydigger.com/) is using it.
-
-
-* Video 11-1: Zohar Asulin
-* Video 11-2: Zohar Asulin
+* [Video 11-1](https://youtu.be/X3LMTayDRUM): Zohar Asulin
+* [Video 11-2](https://youtu.be/vB172bgPoxc): Zohar Asulin
 
 Videos so far:
     Yael Levi        18
@@ -702,7 +700,13 @@ Videos so far:
     Doron Chapnitsky 6699
     Zohar Asulin     AABB
 
+## Next:
+
 ## Session 12 2023.06.15 12:15-14:30
+
+* [docker-compose](https://code-maven.com/slides/docker/docker-compose)
+* [PyDigger](https://pydigger.com/) is using it.
+
 
 * Video 12-1:
 * Video 12-2:
