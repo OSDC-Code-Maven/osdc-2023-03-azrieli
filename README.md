@@ -692,6 +692,12 @@ Date: 2023.06.01 12:15-14:30
 * [Video 11-1](https://youtu.be/X3LMTayDRUM): Zohar Asulin
 * [Video 11-2](https://youtu.be/vB172bgPoxc): Zohar Asulin
 
+## Assignment 11
+
+Find an open source project, generate a test coverage report for it, write some tests for a part of the code
+that did not have tests. Send it as a Pull-Request.
+It can be a project you already contributed to or any other project. It can be in Python or any other language.
+
 Videos so far:
     Yael Levi        18
     Eliyahou Levi    18
