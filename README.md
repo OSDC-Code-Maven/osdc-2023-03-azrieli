@@ -684,9 +684,11 @@ Date: 2023.06.01 12:15-14:30
 
 ## Session 11 2023.06.08 12:15-14:30
 
+* [Testing Python with pytest](https://code-maven.com/slides/python/pytest)
 
-* Then we look at [docker-compose](https://code-maven.com/slides/docker/docker-compose)
-* Then see how [PyDigger](https://pydigger.com/) is using it.
+
+* [docker-compose](https://code-maven.com/slides/docker/docker-compose)
+* [PyDigger](https://pydigger.com/) is using it.
 
 
 * Video 11-1: Zohar Asulin
