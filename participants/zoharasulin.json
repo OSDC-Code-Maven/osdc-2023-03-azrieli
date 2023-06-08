@@ -19,12 +19,24 @@
         },
         {
             "url": "https://dev.to/zoharasulin/osdc-2023-assignment5-jao" 
+        },
+        {
+            "url": "https://dev.to/zoharasulin/osdc-2023-assignment6-docker-90i" 
+        },
+        {
+            "url": "https://dev.to/zoharasulin/osdc-2023-assigment8-33fp"
+        },
+        {
+            "url": "https://dev.to/zoharasulin/osdc-assigment9-githubactionsci-57np"
         }
+      
     ],
     "projects": [
         "https://github.com/OSDC-Code-Maven/osdc-2023-03-azrieli",
         "https://github.com/scverse/scanpy",
         "https://github.com/satijalab/seurat",
-        "https://github.com/rorynolan/autothresholdr"
+        "https://github.com/rorynolan/autothresholdr",
+        "https://github.com/huggingface/transformers",
+        "https://github.com/kantoniko/ladino-diksionaryo-code"      
     ]
 }

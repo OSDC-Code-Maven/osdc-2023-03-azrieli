@@ -19,6 +19,9 @@
 * [Assignment 5](#assignment-5)
 * [Session 6: Docker](#session-6-docker)
 * [Assignment 6](#assignment-6)
+* [Session 7: Docker, part 2](#session-7-docker-part-2)
+* [Session 8: git-scm on Windows, GitHub contribution workflow](#session-8-git-scm-on-windows-github-contribution-workflow)
+* [Session 9: GitHub Actions](#session-9-github-actions)
 
 * [Next](#next)
 
@@ -62,7 +65,7 @@
     * Will be in some public GitHub or GitLab repositories.
     * At the end of each assignment you'll write a report - a blog post / journal entry.
     * You will add the link of your blog post to your personal JSON file and send a Pull-Request with the change. (We'll learn these soon)
-    * Video timstamping: Every week two people have to "timestamp" the videos. You can pick a video you'd like to do. If noone volunteers to do one of the videos I'll pick from the names so by the end of the semester everyone will do approximately the same number of videos.
+    * Video timestamping: Every week two people have to "timestamp" the videos. You can pick a video you'd like to do. If no-one volunteers to do one of the videos I'll pick from the names so by the end of the semester everyone will do approximately the same number of videos.
     * First few assignments will be to my projects. This allows for quick feedback and integration.
     * Then to each others projects. This still allows for quick feedback.
     * Then we'll find you open source projects maintained by other people. For these I might be able to give feedback, but I cannot integrate them.
@@ -90,7 +93,7 @@
     * 00:00 About the course
     * 04:28 Overview of the course
     * 18:46 About Gabor Szabo
-    * 20:15 Assighnments
+    * 20:15 Assignments
     * 23:05 Video timestamping
     * 31:20 Grades
     * 35:20 Blog posting
@@ -112,7 +115,7 @@
     * 27:40 Workflow
     * 28:40 Approve pull request
     * 30:00 Error handling
-    * 36:30 Sqush and merge pull request
+    * 36:30 Squash and merge pull request
     * 37:43 Actions
     * 39:02 Exercise definition-send pull request
     * 42:50 Add comment
@@ -159,15 +162,15 @@
    * 15:57 Opening issues in git
    * 19:00 Issues and pull requests
    * 30:55 Sample for real project interaction for Forem
-   * 42:10 Git project concepts, Forking and comminting
+   * 42:10 Git project concepts, Forking and committing
 
 * [Video 2-2](https://youtu.be/WuKd66rLTKw): (Freddy Adiv)
    * 00:00 Locking files - pros and cons
    * 02:50 Following a project and notifications in Git
-   * 05:35 Ranking mechanizm of projects
-   * 06:10 Sturcture of Git URLs, projects/ organizations/ repos
+   * 05:35 Ranking mechanism of projects
+   * 06:10 Structure of Git URLs, projects/ organizations/ repos
    * 15:01 3rd party packages registry
-   * 17:45 Open source by orgznizations
+   * 17:45 Open source by organizations
    * 21:35 YAML file format
    * 31:15 Adding a new organization using YAML
    * 50:22 Assignments
@@ -250,13 +253,13 @@ git push
    * 00:00 Windows - Oracle VM VirtualeBox
    * 07:40 Back to local linux PC
    * 07:50 Create repository for Github pages site (on Github)
-   * 09:11 Clone for create repository localy (on PC)
+   * 09:11 Clone for create repository locally (on PC)
    * 13:00 Download and install the git client from git-scm
    * 15:05 In Windows, git-bash application
    * 17:24 Setup local git configure (add, commit, config, etc.)
    * 29:35 Create private/public key pair
    * 35:10 Push changes (git push)
-   * 39:45 Congif github.io repository (on Github-settings)
+   * 39:45 Config github.io repository (on Github-settings)
    * 42:38 Creating the Github page using Markdown
    * 44:30 Push more changes (git status, add, commit, log. etc.)
    * 47:50 The Github page after changes
@@ -314,7 +317,8 @@ Date: 2023.03.30 13:30-14:30
    * 32:20 types-pytz (example-Has VCS but no author)
    * 34:50 pglib (example-Has VCS but no author (GitLab & setup.cfg file))
    * 37:00 Has VCS summary (PyDigger-Statistics)
-   * 41:00 Adyen (example-Has VCS but no license) * 41:56 Details Licenses page (PyDigger-Statistics)
+   * 41:00 Adyen (example-Has VCS but no license)
+   * 41:56 Details Licenses page (PyDigger-Statistics)
    * 45:10 Recommended books listed
    * 46:10 open source initiative
    * 51:00 searchkit (example-no VCS)
@@ -343,7 +347,7 @@ Date: 2023.04.13 12:15-14:30
 * We discussed [this PR](https://github.com/iterative/dvc-data/pull/340) that needs a fix.
 
 * We discussed (in theory) how to handle a case when we plan to create a change for an open source project that might take us a month.
-    * How to avoid breakage caused by changes ceated on the main project that conflict with the change we make.
+    * How to avoid breakage caused by changes created on the main project that conflict with the change we make.
     * The answer is that we cannot totally avoid those conflicts, but we can reduce their impact by communication and by frequently aligning our work with that of the main branch.
     * I mentioned `rebase`. We will see it in action later.
 * We briefly discussed if people get paid for their open source work.
@@ -450,7 +454,7 @@ Date: 2023.04.27 12:15-14:30
 
 * Write blog posts that have actual text that a random person can read, not just a bunch of links.
 * Explain what you learned from the lecture, from the assignments, and from the way the project owners responded to your PRs.
-* Inlcude links to the issues you opened, the pull-requests you sent.
+* Include links to the issues you opened, the pull-requests you sent.
 * Follow-up on the issues and pull-requests if the owner asks for an updates. We already learned *how* to update a PR.
 * Use Markdown to add titles to the links so they won't be just URLs pasted.
 * See for example [TD](https://dev.to/tdaw)  (OSD700)
@@ -462,10 +466,10 @@ Date: 2023.04.27 12:15-14:30
 
 * [Video 7-1](https://youtu.be/CPpneLuU4aA): Freddy
    * 00:00 Docker with CentOS
-   * 22:13 Instakking CentOS packages
+   * 22:13 Installing CentOS packages
    * 30:35 Bash Configuration
    * 31:16 Adding and changing users
-   * 40:40 Which commnand
+   * 40:40 Which command
    * 49:40 Grep command
    * 01:01:10 Find
    * 01:02:15 Manual pages
@@ -555,7 +559,7 @@ Now that I've already accepted the PR, you can update your main branch from my m
 * 35:00 git commit add README
 * 36:54 github create new repository
 * 38:46 git remote add
-* 44:16 git branch main 
+* 44:16 git branch main
 * 45:16 public key
 * 50:00 push
 * 53:00 repository permissions
@@ -584,7 +588,7 @@ Now that I've already accepted the PR, you can update your main branch from my m
 
 ## Assignment 8
 
-* Take one of the following projects, set up the local development enevironment, work on one of the issues, send a PR
+* Take one of the following projects, set up the local development environment, work on one of the issues, send a PR
     * https://osdc.code-maven.com/
     * https://osdc.code-maven.com/open-source-by-organizations/
     * https://kantoniko.com/
@@ -616,7 +620,7 @@ Date: 2023.05.11 12:15-14:30
   * 44:00 Github environment variables
   * 48:00 Github actions repositories
   * 55:00 Github matrix strategy
- 
+
 * [Video 9-2](https://youtu.be/PtnGFykK8jc): Doron Chapnitsky
   * 00:00 Github matrix strategy recap
   * 03:20 How to use Github environment variables and conditions
@@ -631,7 +635,64 @@ Date: 2023.05.11 12:15-14:30
 Find a project that has some tests but does not have any type of continuous integration. Set up GitHub Action to run the tests.
 Before you send the PR to the project owner show the results to @szabgab.
 
+## Session 10: Dockerfile; Playground; GitHub Actions for Java, Open Source
+
+Date: 2023.06.01 12:15-14:30
+
+* [OSDC Site generator](https://github.com/OSDC-Code-Maven/osdc-site-generator)
+* Earlier we saw how to run a docker container, install things and then build a Docker image
+* Today we'll see how to build a Docker image using Dockerfile https://code-maven.com/slides/docker/docker-empty-ubuntu
+* [Creating a file on a mounted volume in Docker as the external user (and not as root)](https://code-maven.com/creating-file-in-docker-as-the-external-user)
+* [Dockerfile of OSDC Site Generator](https://github.com/OSDC-Code-Maven/osdc-site-generator/blob/v1/Dockerfile)
+* Then how the [CPAN Digger](https://cpan-digger.perlmaven.com/) project uses a Docker image
+* Then we'll see the [Playground](https://github.com/szabgab/playground) docker image
+* GitHub Action for Java Projects
+    * [Explore projects](https://github.com/explore)
+    * [Java](https://github.com/topics/java?l=java)
+    * We looked at this [guava](https://github.com/google/guava)
+    * [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action)
+    * [setup-java action](https://github.com/actions/setup-java)
+
+
+* Briefly: why companies and people write open source and Quality of open source code: Test coverage on [CPAN Digger](https://cpan-digger.perlmaven.com/recent).
+
+* [Video 10-1](https://youtu.be/GdXP0uSRK4Y): Zohar Asulin
+   * 00:00 convert Markdown to html
+   * 04:26 GITHUB ACTION
+   * 08:55 Dockerfile
+   * 10:24 build a Docker image using Dockerfile
+   * 21:29 CMD  echo HELLO WORLD
+   * 29:19 ubuntu htop
+   * 36:29 docker copy file to img
+   * 45:20 copy file from stopped container
+   * 47:52 Docker curl
+   * 49:33 add ENTRYPOINT to Dockerfile
+   * 51:44 ENTRYPOINT vs. CMD
+
+* [Video 10-2](https://youtu.be/pgWTk2jejM4): Zohar Asulin
+   * 00:00 Docker and variable environment
+   * 00:40 Docker with crontab
+   * 12:06 Creating a file on a mounted volume in Docker as the external user
+   * 16:04 Dockerfile of OSDC Site Generator
+   * 25:28 CPAN Digger
+   * 26:53 Playground docker image
+   * 41:50 GitHub Action for Java Projects
+   * 58:17  motivation of projects open source code
+   * 01:06:05 CPAN Digger test average
+
 ## Next:
+
+## Session 11 2023.06.08 12:15-14:30
+
+* [Testing Python with pytest](https://code-maven.com/slides/python/pytest)
+
+
+* [docker-compose](https://code-maven.com/slides/docker/docker-compose)
+* [PyDigger](https://pydigger.com/) is using it.
+
+
+* Video 11-1: Zohar Asulin
+* Video 11-2: Zohar Asulin
 
 Videos so far:
     Yael Levi        18
@@ -639,22 +700,7 @@ Videos so far:
     Freddy Adiv      2277
     Ran Moshe        3455
     Doron Chapnitsky 6699
-
-
-## Session 10 2023.06.01 12:15-14:30
-
-* [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
-* Java Project example
-
-
-
-* Video 10-1:
-* Video 10-2:
-
-## Session 11 2023.06.08 12:15-14:30
-
-* Video 11-1:
-* Video 11-2:
+    Zohar Asulin     AABB
 
 ## Session 12 2023.06.15 12:15-14:30
 
@@ -665,4 +711,6 @@ Videos so far:
 
 * Video 13-1:
 * Video 13-2:
+
+* [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
 
