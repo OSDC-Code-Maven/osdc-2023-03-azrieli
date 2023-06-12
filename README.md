@@ -680,19 +680,63 @@ Date: 2023.06.01 12:15-14:30
    * 58:17  motivation of projects open source code
    * 01:06:05 CPAN Digger test average
 
-## Next:
 
-## Session 11 2023.06.08 12:15-14:30
+## Session 11: Testing with PyTest
 
+* Date: 2023.06.08 12:15-14:30
+
+* [Testing Demo](https://code-maven.com/slides/python/testing-demo)
 * [Testing Python with pytest](https://code-maven.com/slides/python/pytest)
 
 
-* [docker-compose](https://code-maven.com/slides/docker/docker-compose)
-* [PyDigger](https://pydigger.com/) is using it.
+* [Video 11-1](https://youtu.be/X3LMTayDRUM): Zohar Asulin
+   *  00:00 testing with pytest
+   * 05:27 test methods
+   * 06:37 testinng demo tools in python
+   * 08:13 AUT-application under test
+   * 10:30 Regression test
+   * 13:07 doctest
+   * 26:14 unittest
+   * 30:50 pytest
+   * 45:46 and unittest pytest run  doctest
+   * 46:25 test coverage
+   * 54:13 pytest setup
+   * 55:37 examples test
 
 
-* Video 11-1: Zohar Asulin
-* Video 11-2: Zohar Asulin
+* [Video 11-2](https://youtu.be/vB172bgPoxc): Zohar Asulin
+   * 00:00 pytest expected exception
+   * 06:37 pytest change text
+   * 07:37 pytest missing exception
+   * 08:14 exception raised
+   * 10:20 exercise-test exceptions
+   * 10:57 multiple failures
+   * 12:30 selective running of test functions
+   * 13:24 stop on first failure
+   * 15:55 expect a test to fail
+   * 23:15 –rx
+   * 24:17 skip test
+   * 27:37 –rs skip test
+   * 28:15 show extra test –r
+   * 28:30 verbose mode
+   * 28:39 quiet mode
+   * 28:49 STDOUT STDERR
+   * 31:30 using classes
+   * 32:06 module Home assignment - create test for open source project
+   * 34:32 Travis CI
+   * 35:06 pytest.mark.parametrize
+   * 43:13 testing flask
+   * 44:15 Anagram in CMD
+   * 48:44 examples function test
+   * 50:35 Fixtures
+   * 1:00:12 Home assignment
+
+
+## Assignment 11
+
+Find an open source project, generate a test coverage report for it, write some tests for a part of the code
+that did not have tests. Send it as a Pull-Request.
+It can be a project you already contributed to or any other project. It can be in Python or any other language.
 
 Videos so far:
     Yael Levi        18
@@ -702,7 +746,13 @@ Videos so far:
     Doron Chapnitsky 6699
     Zohar Asulin     AABB
 
+## Next:
+
 ## Session 12 2023.06.15 12:15-14:30
+
+* [docker-compose](https://code-maven.com/slides/docker/docker-compose)
+* [PyDigger](https://pydigger.com/) is using it.
+
 
 * Video 12-1:
 * Video 12-2:
