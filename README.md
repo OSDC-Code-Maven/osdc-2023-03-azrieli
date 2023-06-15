@@ -746,17 +746,19 @@ Videos so far:
     Doron Chapnitsky 6699
     Zohar Asulin     AABB
 
-## Next:
+## Session 12: Which project to work on; Docker compose
 
-## Session 12 2023.06.15 12:15-14:30
+* Date: 2023.06.15 12:15-14:30
 
+* [Which project to contribute to?](https://code-maven.com/slides/osdc/)
 * [Docker commands](https://code-maven.com/slides/docker/)
 * [docker-compose](https://code-maven.com/slides/docker/docker-compose)
 * [PyDigger](https://pydigger.com/) is using it.
-* [Which project to contribute to?](https://code-maven.com/slides/osdc/)
 
-* Video 12-1:
-* Video 12-2:
+* [Video 12-1](https://youtu.be/jmdGLyhQFTI):
+* [Video 12-2](https://youtu.be/OgYzZI1O1LQ):
+
+## Next:
 
 ## Session 13 2023.06.22 12:15-14:30
 
