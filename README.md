@@ -755,6 +755,9 @@ Videos so far:
 * [docker-compose](https://code-maven.com/slides/docker/docker-compose)
 * [PyDigger](https://pydigger.com/) is using it.
 
+* [Linode](https://www.linode.com/)
+* [Digital Ocean](https://www.digitalocean.com/)
+
 * [Video 12-1](https://youtu.be/jmdGLyhQFTI):
 * [Video 12-2](https://youtu.be/OgYzZI1O1LQ):
 
