@@ -750,9 +750,10 @@ Videos so far:
 
 ## Session 12 2023.06.15 12:15-14:30
 
+* [Docker commands](https://code-maven.com/slides/docker/)
 * [docker-compose](https://code-maven.com/slides/docker/docker-compose)
 * [PyDigger](https://pydigger.com/) is using it.
-
+* [Which project to contribute to?](https://code-maven.com/slides/osdc/)
 
 * Video 12-1:
 * Video 12-2:
