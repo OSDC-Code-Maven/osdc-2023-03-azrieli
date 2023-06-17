@@ -28,9 +28,13 @@
         },
         {
             "url": "https://dev.to/fredadiv/workflows-with-github-4b4l"
+        },
+        {
+            "url": "https://dev.to/fredadiv/simple-chatbot-with-tests-m3c"
         }
     ],
     "projects": [
+        "https://github.com/FredAdiv/Chatbot",
         "https://github.com/FredAdiv/Coursera_Capstone",
         "https://github.com/Torantulino/Auto-GPT",
         "https://github.com/toeverything/AFFiNE",
