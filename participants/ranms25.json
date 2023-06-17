@@ -30,6 +30,9 @@
         },
 	{
             "url": "https://dev.to/ranms25/osdc-2023-assignment-11-51pg"
+        },
+	{
+            "url": "https://dev.to/ranms25/osdc-2023-weather-app-ola"
         }
 
     ],
@@ -45,6 +48,7 @@
         "https://github.com/yijingru/Vertebra-Landmark-Detection",
         "https://github.com/zc402/Scoliosis",
         "https://github.com/Fernando23296/scoliosisx",
-        "https://github.com/wiguider/Ensemble-Deep-Learning-to-Classify-Scoliosis-and-Healthy-Subjects"
+        "https://github.com/wiguider/Ensemble-Deep-Learning-to-Classify-Scoliosis-and-Healthy-Subjects",
+	"https://github.com/ranms25/Python-Weather-App"
     ]
 }
