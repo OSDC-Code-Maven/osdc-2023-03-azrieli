@@ -758,25 +758,32 @@ Videos so far:
 * [Linode](https://www.linode.com/)
 * [Digital Ocean](https://www.digitalocean.com/)
 
-* [Video 12-1](https://youtu.be/jmdGLyhQFTI): Yael Levi
-   00:00 Inputt order bug
-   06:10 Whichh project to contribute
-   12:12 Gitt log to watch commits on the project
-   13:08 gitk, gitg
-   15:02 tig
-   17:17 A well-knownn projects
-   24:25 django
-   35:49 search recent updates
-   37:31 A project missing something
-   37:50 cpan digger
-   41:54 Desktop app, API, dependencies
-   43:07 awesome list
-   47:11 Type of project
-   51:00 Web application
-   51:42 databases
-   01:00 in the OSDC
-   01:02 Points for improvement
-* [Video 12-2](https://youtu.be/OgYzZI1O1LQ):
+* [Video 12-1](https://youtu.be/jmdGLyhQFTI):
+* [Video 12-2](https://youtu.be/OgYzZI1O1LQ): Eliyahou Levi
+   * 00:30 Bot to telegram
+   * 03:00 Docker commands
+   * 05:40 Docker tag, update & publish
+   * 08:39 Docker Compose
+   * 11:08 docker-compose.yml
+   * 13:02 swarm mode warnning
+   * 15:29 Docker exec
+   * 16:42 2 services example
+   * 17:40 docker-compose up
+   * 18:52 example with 2 docker files
+   * 19:13 redis - key value db
+   * 23:36 docker compose stop
+   * 25:04 docker rm redis
+   * 27:00 Docker Solr
+   * 27:41 MongoDB
+   * 29:01 Postgres
+   * 29:30 Compose for Perl
+   * 30:40 pydigger docker-compose.yml
+   * 35:57 update pydigger
+   * 37:43 docker-compose.yml example
+   * 40:00 docker compose override.yml
+   * 48:50 Linode
+   * 52:17 Exercise
+
 
 ## Next:
 
