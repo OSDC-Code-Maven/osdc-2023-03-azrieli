@@ -85,7 +85,7 @@
 * Why use version control?
 * What is [JSON](https://www.json.org/).
 * Pull request to add JSON, show drawing.
-* Use the cm-demo account to add enty to participant.
+* Use the cm-demo account to add entry to participant.
 
 * About GitHub Actions: they are programs triggered by some action. In this case by a pull request.
 
@@ -272,7 +272,7 @@ git push
 
 * Create a web site using GitHub pages, with cv, image, projects. Link to the course site, link to your blog. Use this to show a lot more interesting information about yourself to both your future employer, but also to friends and family. Check out what others in the [other course](https://osdc.code-maven.com/instances) did for inspiration.
 * Write a blog post about what you did, link it to the course web site, to your own new web site, to the pull-requests you made.
-* Update your JSON file with the new blog post and also add an entry of `"githu_page": true` to your JSON file if it is not there yet.
+* Update your JSON file with the new blog post and also add an entry of `"github_page": true` to your JSON file if it is not there yet.
 
 
 * Dead-line: 2023.03.28 midnight.
@@ -692,7 +692,7 @@ Date: 2023.06.01 12:15-14:30
 * [Video 11-1](https://youtu.be/X3LMTayDRUM): Zohar Asulin
    *  00:00 testing with pytest
    * 05:27 test methods
-   * 06:37 testinng demo tools in python
+   * 06:37 testing demo tools in python
    * 08:13 AUT-application under test
    * 10:30 Regression test
    * 13:07 doctest
@@ -758,7 +758,25 @@ Videos so far:
 * [Linode](https://www.linode.com/)
 * [Digital Ocean](https://www.digitalocean.com/)
 
-* [Video 12-1](https://youtu.be/jmdGLyhQFTI):
+
+* [Video 12-1](https://youtu.be/jmdGLyhQFTI): Yael Levi
+    * 00:00 Input order bug
+    * 06:10 Which project to contribute
+    * 12:12 Git log to watch commits on the project
+    * 13:08 gitk, gitg
+    * 15:02 tig
+    * 17:17 A well-known projects
+    * 24:25 Django
+    * 35:49 search recent updates
+    * 37:31 A project missing something
+    * 37:50 cpan digger
+    * 41:54 Desktop app, API, dependencies
+    * 43:07 awesome list
+    * 47:11 Type of project
+    * 51:00 Web application
+    * 51:42 databases
+    * 01:01:00 in the OSDC
+    * 01:01:02 Points for improvement
 * [Video 12-2](https://youtu.be/OgYzZI1O1LQ): Eliyahou Levi
    * 00:30 Bot to telegram
    * 03:00 Docker commands
@@ -783,7 +801,6 @@ Videos so far:
    * 40:00 docker compose override.yml
    * 48:50 Linode
    * 52:17 Exercise
-
 
 ## Next:
 
