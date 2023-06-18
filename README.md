@@ -759,23 +759,23 @@ Videos so far:
 * [Digital Ocean](https://www.digitalocean.com/)
 
 * [Video 12-1](https://youtu.be/jmdGLyhQFTI): Yael Levi
-   00:00 Inputt order bug
-   06:10 Whichh project to contribute
-   12:12 Gitt log to watch commits on the project
-   13:08 gitk, gitg
-   15:02 tig
-   17:17 A well-knownn projects
-   24:25 django
-   35:49 search recent updates
-   37:31 A project missing something
-   37:50 cpan digger
-   41:54 Desktop app, API, dependencies
-   43:07 awesome list
-   47:11 Type of project
-   51:00 Web application
-   51:42 databases
-   01:00 in the OSDC
-   01:02 Points for improvement
+    * 00:00 Input order bug
+    * 06:10 Which project to contribute
+    * 12:12 Git log to watch commits on the project
+    * 13:08 gitk, gitg
+    * 15:02 tig
+    * 17:17 A well-known projects
+    * 24:25 Django
+    * 35:49 search recent updates
+    * 37:31 A project missing something
+    * 37:50 cpan digger
+    * 41:54 Desktop app, API, dependencies
+    * 43:07 awesome list
+    * 47:11 Type of project
+    * 51:00 Web application
+    * 51:42 databases
+    * 01:01:00 in the OSDC
+    * 01:01:02 Points for improvement
 * [Video 12-2](https://youtu.be/OgYzZI1O1LQ):
 
 ## Next:
