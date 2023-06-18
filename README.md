@@ -738,14 +738,6 @@ Find an open source project, generate a test coverage report for it, write some 
 that did not have tests. Send it as a Pull-Request.
 It can be a project you already contributed to or any other project. It can be in Python or any other language.
 
-Videos so far:
-    Yael Levi        18
-    Eliyahou Levi    18
-    Freddy Adiv      2277
-    Ran Moshe        3455
-    Doron Chapnitsky 6699
-    Zohar Asulin     AABB
-
 ## Session 12: Which project to work on; Docker compose
 
 * Date: 2023.06.15 12:15-14:30
@@ -802,7 +794,19 @@ Videos so far:
    * 48:50 Linode
    * 52:17 Exercise
 
+### Assignment 12
+
+* Start writing a project and pusing it out to a repository on GitHub. The programming language used is not important and the project can be any "toy" project, but it needs to show the various things we learned. It has to have at least one test and there has to be Github Actions configured to run it.
+
 ## Next:
+
+Videos so far:
+    Yael Levi        18C
+    Eliyahou Levi    18C
+    Freddy Adiv      2277
+    Ran Moshe        3455
+    Doron Chapnitsky 6699
+    Zohar Asulin     AABB
 
 ## Session 13 2023.06.22 12:15-14:30
 
