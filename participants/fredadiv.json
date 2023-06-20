@@ -25,12 +25,29 @@
         },
         {
             "url": "https://dev.to/fredadiv/useful-command-in-git-and-dockers-99"
-        }      
+        },
+        {
+            "url": "https://dev.to/fredadiv/workflows-with-github-4b4l"
+        },
+        {
+            "url": "https://dev.to/fredadiv/simple-chatbot-with-tests-m3c"
+        }
     ],
     "projects": [
+        "https://github.com/FredAdiv/Chatbot",
         "https://github.com/FredAdiv/Coursera_Capstone",
         "https://github.com/Torantulino/Auto-GPT",
         "https://github.com/toeverything/AFFiNE",
-        "https://github.com/buger/goreplay"
+        "https://github.com/buger/goreplay",
+        "https://github.com/FredAdiv/penn",
+        "https://github.com/FredAdiv/open-source-by-organizations",
+        "https://github.com/FredAdiv/slides",
+        "https://github.com/FredAdiv/capturecli",
+        "https://github.com/FredAdiv/sanic-restful",
+        "https://github.com/FredAdiv/nbt-structure-utils",
+        "https://github.com/FredAdiv/sanic-restful",
+        "https://github.com/FredAdiv/toml_tools",
+        "https://github.com/FredAdiv/autosrt",
+        "https://github.com/FredAdiv/toml_tools"        
     ]
 }
