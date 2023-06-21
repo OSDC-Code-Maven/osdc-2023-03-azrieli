@@ -32,6 +32,9 @@
         },
         {
             "url": "https://dev.to/chapnitsky/advanced-mx2-ut-3ii5"
+        },
+        {
+            "url": "https://dev.to/chapnitsky/my-new-calculator-repository-14d"
         }
     ],
     "projects":[
@@ -45,6 +48,7 @@
         "https://github.com/huggingface/transformers",
         "https://github.com/kantoniko/ladino-diksionaryo-code",
         "https://github.com/kantoniko/ladino-pages",
-        "https://github.com/chapnitsky/pymx2"
+        "https://github.com/chapnitsky/pymx2",
+        "https://github.com/chapnitsky/pyBinary"
     ]
 }
