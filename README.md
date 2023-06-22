@@ -808,10 +808,14 @@ Videos so far:
     Doron Chapnitsky 6699
     Zohar Asulin     AABB
 
-## Session 13 2023.06.22 12:15-14:30
+## Session 13
+
+* Date: 2023.06.22 12:15-14:30
+
+* Q&A Session
+* [Maakaf](https://maakaf.code-maven.com/)
+* Review lots of open source projects
 
 * Video 13-1:
 * Video 13-2:
-
-* [VS Code and Docker](https://code.visualstudio.com/docs/devcontainers/containers)
 
