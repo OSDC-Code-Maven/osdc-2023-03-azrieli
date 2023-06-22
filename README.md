@@ -820,6 +820,6 @@ Videos so far:
 * [Maakaf](https://maakaf.code-maven.com/) Discord!
 * Review lots of open source projects
 
-* Video 13-1:
-* Video 13-2:
+* [Video 13-1](https://youtu.be/rp5y63QZ-Es):
+* [Video 13-2](https://youtu.be/z6sLipczINc):
 
