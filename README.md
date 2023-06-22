@@ -813,7 +813,11 @@ Videos so far:
 * Date: 2023.06.22 12:15-14:30
 
 * Q&A Session
-* [Maakaf](https://maakaf.code-maven.com/)
+* https://dev.to/szabgab/the-most-interesting-open-source-web-applications-356
+* https://distributed.blog/
+* https://code-maven.com/live-web-site-with-editable-open-source-code
+
+* [Maakaf](https://maakaf.code-maven.com/) Discord!
 * Review lots of open source projects
 
 * Video 13-1:
