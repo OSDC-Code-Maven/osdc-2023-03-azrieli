@@ -128,7 +128,7 @@
 
 ## Assignment 1
 
-* Create GitHub repository if you don't have one yet.
+* Create GitHub account if you don't have one yet.
 * Add an image or an avatar to your GitHub account.
 * Add your JSON to our repository to the `participants/' folder.
 * List interesting projects in the JSON file.
@@ -171,7 +171,7 @@
    * 42:10 Git project concepts, Forking and committing
 
 * [Video 2-2](https://youtu.be/WuKd66rLTKw): (Freddy Adiv)
-   * 00:00 Locking files - pros and cons
+   * 00:00 Locking files in version control - pros and cons
    * 02:50 Following a project and notifications in Git
    * 05:35 Ranking mechanism of projects
    * 06:10 Structure of Git URLs, projects/ organizations/ repos
@@ -310,7 +310,7 @@ Date: 2023.03.30 13:30-14:30
 
 * [Video 4-1](https://youtu.be/xIP13AK4usI): Ran Moshe
    * 00:00 PyDigger and pypi.org (Introduction)
-   * 03:00 last updates of pypi (show in CLI- use grep & ack to get the relevant url) 
+   * 03:00 last updates of pypi (show in CLI- use grep & ack to get the relevant url)
    * 04:45 PyDigger-Statistics
    * 06:30 No VCS (PyDigger-Statistics)
    * 07:50 CI (PyDigger-Statistics)
