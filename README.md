@@ -4,6 +4,7 @@
 
 * Start day: 2023.03.09
 * Meetings: Every Thursday 12:15-14:45
+* Last meeting: 2023.06.22
 
 ## TOC
 
@@ -28,8 +29,7 @@
 * [Assignment 11](#assignment-11)
 * [Session 12: Which project to work on; Docker compose](#session-12-which-project-to-work-on-docker-compose)
 * [Assignment 12](#assignment-12)
-
-* [Next](#next)
+* [Session 13: Overview of well-known open source projects](#session-13-overview-of-well-known-open-source-projects)
 
 ## Videos
 
