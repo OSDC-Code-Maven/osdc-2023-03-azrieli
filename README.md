@@ -22,6 +22,12 @@
 * [Session 7: Docker, part 2](#session-7-docker-part-2)
 * [Session 8: git-scm on Windows, GitHub contribution workflow](#session-8-git-scm-on-windows-github-contribution-workflow)
 * [Session 9: GitHub Actions](#session-9-github-actions)
+* [Assignment 9](#assignment-9)
+* [Session 10: Dockerfile; Playground; GitHub Actions for Java, Open Source](#session-10-dockerfile-playground-github-actions-for-java-open-source)
+* [Session 11: Testing with PyTest](#session-11-testing-with-pytest)
+* [Assignment 11](#assignment-11)
+* [Session 12: Which project to work on; Docker compose](#session-12-which-project-to-work-on-docker-compose)
+* [Assignment 12](#assignment-12)
 
 * [Next](#next)
 
@@ -798,17 +804,7 @@ It can be a project you already contributed to or any other project. It can be i
 
 * Start writing a project and pusing it out to a repository on GitHub. The programming language used is not important and the project can be any "toy" project, but it needs to show the various things we learned. It has to have at least one test and there has to be Github Actions configured to run it.
 
-## Next:
-
-Videos so far:
-    Yael Levi        18C
-    Eliyahou Levi    18C
-    Freddy Adiv      2277
-    Ran Moshe        3455
-    Doron Chapnitsky 6699
-    Zohar Asulin     AABB
-
-## Session 13
+## Session 13: Overview of well-known open source projects
 
 * Date: 2023.06.22 12:15-14:30
 
@@ -822,4 +818,14 @@ Videos so far:
 
 * [Video 13-1](https://youtu.be/rp5y63QZ-Es):
 * [Video 13-2](https://youtu.be/z6sLipczINc):
+
+
+Videos so far:
+    Yael Levi        18C
+    Eliyahou Levi    18C
+    Freddy Adiv      2277
+    Ran Moshe        3455
+    Doron Chapnitsky 6699
+    Zohar Asulin     AABB
+
 
