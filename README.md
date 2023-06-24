@@ -820,6 +820,7 @@ It can be a project you already contributed to or any other project. It can be i
 * [Video 13-2](https://youtu.be/z6sLipczINc):
 
 
+```
 Videos so far:
     Yael Levi        18C
     Eliyahou Levi    18C
@@ -827,5 +828,4 @@ Videos so far:
     Ran Moshe        3455
     Doron Chapnitsky 6699
     Zohar Asulin     AABB
-
-
+```
