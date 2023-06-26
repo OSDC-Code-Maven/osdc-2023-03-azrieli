@@ -828,7 +828,26 @@ It can be a project you already contributed to or any other project. It can be i
   * 00:34 overlay
   * 00:36 new project for read/write hebrew
   * 00:44 Text to voice open source
-* [Video 13-2](https://youtu.be/z6sLipczINc):
+* [Video 13-2](https://youtu.be/z6sLipczINc): Yael Levi
+  * 00:00 PostgresSQL Database
+  * 03:45 client-code
+  * 06:23 Maria DB on github
+  * 08:09 GCC  clone
+  * 08:28 bugs
+  * 09:58 Blender 3.5
+  * 14:10 blender mirror
+  * 14:43 Report Bug
+  * 15:32 Gitea opensource
+  * 16:49 How to contribute the project
+  * 18:20 Gitea source
+  * 19:40 experience operations
+  * 20:48 Linode to Gain experience
+  * 21:58 Sqlite
+  * 23:48 Desktop applications
+  * 25:00 VLC
+  * 28:12 OpenOffice
+  * 30:48 Meetup
+
 
 
 ```
