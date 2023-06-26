@@ -816,7 +816,18 @@ It can be a project you already contributed to or any other project. It can be i
 * [Maakaf](https://maakaf.code-maven.com/) Discord!
 * Review lots of open source projects
 
-* [Video 13-1](https://youtu.be/rp5y63QZ-Es):
+* [Video 13-1](https://youtu.be/rp5y63QZ-Es):Eliyahou Levi
+  * 00:00 devops
+  * 00:04 wikimedia
+  * 00:09 Distributed blog
+  * 00:11 review open source projects
+  * 00:12 open source community channel
+  * 00:17 discord
+  * 00:25 jamstack
+  * 00:31 JBake
+  * 00:34 overlay
+  * 00:36 new project for read/write hebrew
+  * 00:44 Text to voice open source
 * [Video 13-2](https://youtu.be/z6sLipczINc): Yael Levi
   * 00:00 PostgresSQL Database
   * 03:45 client-code
@@ -836,12 +847,6 @@ It can be a project you already contributed to or any other project. It can be i
   * 25:00 VLC
   * 28:12 OpenOffice
   * 30:48 Meetup
-   
-   
-
-
-
-
 
 
 
