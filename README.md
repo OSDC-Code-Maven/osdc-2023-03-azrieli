@@ -611,7 +611,7 @@ Date: 2023.05.11 12:15-14:30
 
 * [GitHub Action to generate the site of the course](https://github.com/osdc-code-maven/osdc-site-generator)
 * [GitHub Actions examples](https://code-maven.com/github-actions)
-* [GitHub action for Perl library to access Postgres](https://github.com/bucardo/dbdpg/pull/115/files)
+* [GitHub action for Perl library to access PostgreSQL](https://github.com/bucardo/dbdpg/pull/115/files)
 * [Pydigger has GitHub but no CI](https://pydigger.com/search/has-github-no-ci)
 * [capturecli, simple python project with CI](https://github.com/szabgab/capturecli)
 * [Video: GitHub Actions to generate complex static web](https://workshops.code-maven.com/github-actions-to-generate-complex-static-web-sites)
@@ -781,7 +781,7 @@ It can be a project you already contributed to or any other project. It can be i
    * 05:40 Docker tag, update & publish
    * 08:39 Docker Compose
    * 11:08 docker-compose.yml
-   * 13:02 swarm mode warnning
+   * 13:02 swarm mode warning
    * 15:29 Docker exec
    * 16:42 2 services example
    * 17:40 docker-compose up
@@ -791,7 +791,7 @@ It can be a project you already contributed to or any other project. It can be i
    * 25:04 docker rm redis
    * 27:00 Docker Solr
    * 27:41 MongoDB
-   * 29:01 Postgres
+   * 29:01 PostgreSQL
    * 29:30 Compose for Perl
    * 30:40 pydigger docker-compose.yml
    * 35:57 update pydigger
@@ -802,7 +802,7 @@ It can be a project you already contributed to or any other project. It can be i
 
 ### Assignment 12
 
-* Start writing a project and pusing it out to a repository on GitHub. The programming language used is not important and the project can be any "toy" project, but it needs to show the various things we learned. It has to have at least one test and there has to be Github Actions configured to run it.
+* Start writing a project and pushing it out to a repository on GitHub. The programming language used is not important and the project can be any "toy" project, but it needs to show the various things we learned. It has to have at least one test and there has to be Github Actions configured to run it.
 
 ## Session 13: Overview of well-known open source projects
 
@@ -849,11 +849,10 @@ It can be a project you already contributed to or any other project. It can be i
   * 30:48 Meetup
 
 
-
 ```
 Videos so far:
-    Yael Levi        18C
-    Eliyahou Levi    18C
+    Yael Levi        18CD
+    Eliyahou Levi    18CD
     Freddy Adiv      2277
     Ran Moshe        3455
     Doron Chapnitsky 6699
